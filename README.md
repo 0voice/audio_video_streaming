@@ -259,7 +259,7 @@
 ![音视频开源项目说明](https://www.0voice.com/uiwebsite/audio_video_streaming/02/audio_video_open_source_pro.png "音视频开源项目") 
 
 
-##### 2.1.1 音视频编解码类
+##### 2.1.1 音视频编解码开源项目
 
 <div align=left>
   
@@ -271,14 +271,26 @@ FFmpeg|[ffmpeg.org](www.ffmpeg.org)|FFmpeg提供了编码、解码、转换、�
 
 </div>
 
+##### 2.1.2 服务端开源项目
 
-##### 2.1.2 视频前后处理
+##### 2.1.3 视频前后处理开源项目
 
-##### 2.1.3 服务端类等
+##### 2.1.34 服务端开源项目
 
-### 2.2 音视频开源项目
+### 2.2 其他音视频开源项目
 
-实时音视频开发中会用到开源项目
+project|website|introduce
+:-------: | :---------------: | :------------: 
+Speex|[xiph.org](https://www.xiph.org)|Speex是一套主要针对语音的开源免费，无专利保护的音频压缩格式。
+FLAC|[xiph.org](https://www.xiph.org)|FLAC中文可解释为无损音频压缩编码。FLAC是一套著名的自由音频压缩编码，其特点是无损压缩。不同于其他有损压缩编码如MP3及AAC，它不会破坏任何原有的音频信息，所以可以还原音乐光盘音质。
+Xvid|[www.xvidmovies.com/players](https://www.xvidmovies.com/players/)|Xvid是一个开放源代码的MPEG-4视频编解码器，它是基于OpenDivX而编写的。
+libvpx|[www.linuxfromscratch.org](https://www.linuxfromscratch.org)|提供了VVP Cedec的参考实现和下一代VP9代码的参考实现，该软件包已知使用LFS-10.1平台构建和正常工作。
+Lagarith|[lags.leetcode.net](http://lags.leetcode.net/index.htm)|Lagarith，是一种由Ben Greenwood所撰写的影片编解码器（video codec）。
+netvc|[www.datatracker.ietf.org](https://datatracker.ietf.org/)|produce a high-quality video codec that meets the following conditions:1. Is competitive (in the sense of having comparable or better performance) with current video codecs in widespread use. 2. Is optimized for use in interactive web applications. 3. Is viewed as having IPR licensing terms that allow it to be widely implemented and deployed.
+Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解码器，Thor拥有适当复杂度的高压缩率视频编码解码器，使用众所周知的 motion-compensated 预测的混合视频编码方法和变换编码。
+
+http://Xiph.org的Speex、FLAC，还有Xvid、libvpx、Lagarith、Daala、Thor等。欢迎大家继续补充。
+
 
 <h2 id="nav_3">🧿 视频</h2>
 
