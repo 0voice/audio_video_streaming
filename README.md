@@ -262,15 +262,14 @@
 project|website|introduce
 :-------: | :---------------: | :------------: 
 WebRTC|[webrtc.org](www.webrtc.org)|首先会用到的肯定是WebRTC，是一个支持网页浏览器进行实时语音对话或视频对话的开源项目。它提供了包括音视频的采集、编解码、网络传输、显示等功能。如果你想基于WebRTC开发实时音视频应用，需要注意，由于WebRTC缺少服务端设计和部署方案，还需要将WebRTC与Janus等服务端类开源项目结合即可。
-
 x264|[www.videolan.org/developers](www.videolan.org/developers)|H.264是目前应用最广的码流标准。x264则是能够产生符合H.264标准的码流的编码器，它可以将视频流编码为H.264、MPEG-4 AVC格式。它提供了命令行接口与API，前者被用于一些图形用户接口例如Straxrip、MeGUI，后者则被FFmpeg、Handbrake等调用。当然，既然有x264，就有对应HEVC/H.265的x265。
+FFmpeg|[ffmpeg.org](www.ffmpeg.org)|FFmpeg提供了编码、解码、转换、封装等功能，以及剪裁、缩放、色域等后期处理，支持几乎目前所有音视频编码标准（由于格式众多，可以在Wikipedia中找到）。
+
 
 
 ##### 2.1.2 视频前后处理
 
 ##### 2.1.3 服务端类等
-
-
 
 ![音视频基础知识入门说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_1.png "音视频基础知识入门") 
 
