@@ -279,6 +279,8 @@ FFmpeg|[ffmpeg.org](www.ffmpeg.org)|FFmpeg提供了编码、解码、转换、�
 
 ### 2.2 其他音视频开源项目
 
+<div align=left>
+  
 project|website|introduce
 :-------: | :---------------: | :------------: 
 Speex|[xiph.org](https://www.xiph.org)|Speex是一套主要针对语音的开源免费，无专利保护的音频压缩格式。
@@ -286,11 +288,13 @@ FLAC|[xiph.org](https://www.xiph.org)|FLAC中文可解释为无损音频压缩�
 Xvid|[www.xvidmovies.com/players](https://www.xvidmovies.com/players/)|Xvid是一个开放源代码的MPEG-4视频编解码器，它是基于OpenDivX而编写的。
 libvpx|[www.linuxfromscratch.org](https://www.linuxfromscratch.org)|提供了VVP Cedec的参考实现和下一代VP9代码的参考实现，该软件包已知使用LFS-10.1平台构建和正常工作。
 Lagarith|[lags.leetcode.net](http://lags.leetcode.net/index.htm)|Lagarith，是一种由Ben Greenwood所撰写的影片编解码器（video codec）。
-netvc|[www.datatracker.ietf.org](https://datatracker.ietf.org/)|produce a high-quality video codec that meets the following conditions:1. Is competitive (in the sense of having comparable or better performance) with current video codecs in widespread use. 2. Is optimized for use in interactive web applications. 3. Is viewed as having IPR licensing terms that allow it to be widely implemented and deployed.
+netvc|[www.datatracker.ietf.org](https://datatracker.ietf.org/)|produce a high-quality video codec that meets the following conditions:<br/>
+1. Is competitive (in the sense of having comparable or better performance) with current video codecs in widespread use. <br/>
+2. Is optimized for use in interactive web applications. <br/>
+3. Is viewed as having IPR licensing terms that allow it to be widely implemented and deployed.
 Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解码器，Thor拥有适当复杂度的高压缩率视频编码解码器，使用众所周知的 motion-compensated 预测的混合视频编码方法和变换编码。
-
-http://Xiph.org的Speex、FLAC，还有Xvid、libvpx、Lagarith、Daala、Thor等。欢迎大家继续补充。
-
+  
+</div>
 
 <h2 id="nav_3">🧿 视频</h2>
 
@@ -300,7 +304,7 @@ http://Xiph.org的Speex、FLAC，还有Xvid、libvpx、Lagarith、Daala、Thor�
 
 <h2 id="nav_6">🔰 书籍协议</h2>
 
-<div align=center>
+<div align=left>
 
 No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
