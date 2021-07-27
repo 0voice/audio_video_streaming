@@ -307,15 +307,32 @@ No.|book name|author|introduction
 4|《Android音视频开发》|何俊林 |本书着重介绍音视频基础知识、MediaPlayer、MediaPlayerService、StagefrightPlayer、NuPlayer、OpenMAX框架、FFmpeg项目、FFmpeg源码分析及实战、直播技术、H.264编码及H.265编码、视频格式分析内容。
 5|《FFmpeg从入门到精通》|刘歧 |本书围绕着音视频处理的FFmpeg的发展过程、FFmpeg的组成、FFmpeg的命令行使用、FFmpeg的API使用等内容，由浅入深地介绍了使用FFmpeg进行音视频处理的方法，并辅以大量实例，从而帮助对音视频处理感兴趣的读者对FFmpeg有更多的了解。
 
-
 ### 6.2 视频
 
 <h2 id="nav_7">📰 文章</h2>
-
+<!--
 No.|article
 :------- | :--------------- 
 1| [WebRTC 发送方码率预估实现解析](https://github.com/0voice/audio_video_streaming/blob/main/article/001.REMARD.md)
+-->
+
+No.|from|article
+:------- | :--------------- | :--------------- 
+1|腾讯云音视频|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/Oe92F3GY92tIo0rwSaCg2g)
+2|音视频开发训练营|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/y9L7KagUq2dBV2NHX0NUGQ)
+3|音视频开发进阶|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/xNUpwlk279Nge2pySDZxBw)
+4|Android音视频分享|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/ufox1XOl_6Sf71zYlIOGKA)
+5|玩转音视频|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/Pxch154Yrhq5RpLS3li01w)
+6|webrtc菜鸟笔记|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/rAk3Ea5sOLywMXuj3k7wzA)
+7|网易云信|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/pqVqXmtSkDAJj7sFZ52qlA)
+8|腾讯云音视频|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/cywKWtL9hjDxd-5QThq3ug)
+9|腾讯IMWeb前端团队|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/Teo--s4XhbJ1585eVzkevw)
+10|媒矿工厂|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/7Ry8z1LyyZ7YVNgFPvgIXQ)
+11|视频云技术|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/u7eStMiCGxNyEWsYkG8UYg)
+12|声网Agora|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/R6IzbTx4iLhN3UwQBxYmFg)
+13|LiveVideoStack|[WebRTC 发送方码率预估实现解析](https://mp.weixin.qq.com/s/xsZPZlvWmEcb4dDbKRlIlA)
 
 <h2 id="nav_8">🧾 协议</h2>
+
 
 <h2 id="nav_9">🥌 实践项目</h2>
