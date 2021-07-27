@@ -277,7 +277,7 @@ live555|[www.live555.com](http://www.live555.com)|live555是一个为流媒体�
 ##### 2.1.2 服务端开源项目
 
 project|website|introduce|Baidu network disk
-:------- | :--------------- | :------------
+:------- | :--------------- | :------------| :------------
 jitsi|[jitsi/jitsi](https://github.com/jitsi/jitsi)|Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.|链接：https://pan.baidu.com/s/1IrVtx0nK_0DUo_n7g5tMWQ 提取码：m62i 
 JsSIP|[jssip.net](https://jssip.net)|JsSIP是一个简单易用的JavaScript库，它利用SIP和WebRTC的最新发展，在任何网站上提供全功能的SIP端点。通过JsSIP ，只要几行代码，任何网站都可以通过音频，视频等获得实时通信功能。|链接：https://pan.baidu.com/s/1Uc14fmQdbOmUYJQAXrtWSA 提取码：akf1
 SRS|[www.ossrs.net](http://www.ossrs.net)|SRS定位是运营级的互联网直播服务器集群，追求更好的概念完整性和最简单实现的代码。SRS提供了丰富的接入方案将RTMP流接入SRS，包括推送RTMP到SRS、推送RTSP/UDP/FLV到SRS、拉取流到SRS。SRS还支持将接入的RTMP流进行各种变换，譬如将RTMP流转码、流截图、转发给其他服务器、转封装成HTTP-FLV流、转封装成HLS、转封装成HDS、录制成FLV。SRS包含支大规模集群如CDN业务的关键特性，譬如RTMP多级集群、源站集群、VHOST虚拟服务器、无中断服务Reload、HTTP-FLV集群、Kafka对接。此外，SRS还提供丰富的应用接口，包括HTTP回调、安全策略Security、HTTP API接口、RTMP测速。|链接：
