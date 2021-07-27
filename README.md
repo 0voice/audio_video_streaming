@@ -276,9 +276,39 @@ live555|[www.live555.com](http://www.live555.com)|live555是一个为流媒体�
 
 ##### 2.1.2 服务端开源项目
 
-##### 2.1.3 视频前后处理开源项目
+project|website|introduce
+:------- | :--------------- | :------------
+jitsi|[webrtc.org](https://www.webrtc.org)|介绍
+JsSIP|[webrtc.org](https://www.webrtc.org)|介绍
+SRS|[webrtc.org](https://www.webrtc.org)|介绍
+JRTPLIB|[webrtc.org](https://www.webrtc.org)|介绍
+OPAL|[webrtc.org](https://www.webrtc.org)|介绍
+Kurento|[webrtc.org](https://www.webrtc.org)|介绍
+Janus|[webrtc.org](https://www.webrtc.org)|介绍
 
-##### 2.1.34 服务端开源项目
+##### 2.1.3 质量传输服务端开源项目
+
+project|website|introduce
+:------- | :--------------- | :------------
+callstats.io|[webrtc.org](https://www.webrtc.org)|介绍
+Meetecho|[webrtc.org](https://www.webrtc.org)|介绍
+Agora|[webrtc.org](https://www.webrtc.org)|介绍
+
+##### 2.1.4 视频前后处理开源项目
+
+###### 2.1.4.1 音频
+
+project|website|introduce
+:------- | :--------------- | :------------
+soundtouch|[webrtc.org](https://www.webrtc.org)|介绍
+
+###### 2.1.4.2 视频
+
+project|website|introduce
+:------- | :--------------- | :------------
+seetaface|[webrtc.org](https://www.webrtc.org)|介绍
+GPUlmage|[webrtc.org](https://www.webrtc.org)|介绍
+open nsfw model|[webrtc.org](https://www.webrtc.org)|介绍
 
 ### 2.2 其他音视频开源项目
 
