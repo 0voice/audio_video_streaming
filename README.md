@@ -33,7 +33,7 @@
 <br/>
 
 <h2 id="nav_1">🎵 音视频开发</h2>
-
+<!--
 ### 1.1 音视频基础知识入门
 
   ![音视频基础知识入门说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_11.png "音视频基础知识入门") 
@@ -53,14 +53,14 @@
 ### 1.5 WEBRTC实战
 
   ![WEBRTC实战说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_51.png "WEBRTC实战") 
+-->
 
-<!--
 ### 1.1 音视频基础知识
 
 #### 1.1.1 FFMPEG环境搭建
 
-* Windows平台搭建FFMPEG
-* Linux平台搭建FFMPEG
+>Windows平台搭建FFMPEG
+>Linux平台搭建FFMPEG
 
 #### 1.1.2 音视频基础
 
@@ -243,7 +243,7 @@
 * rtcp
 * stun
 * turn
--->
+
 
 <h2 id="nav_2">🌐 开源框架</h2>
 
@@ -254,11 +254,12 @@
 <br/>
 采集->前处理编码->传输->解码后处理->渲染
 <br/>
+
 实时音视频开源项目思维导图
 ![音视频开源项目说明](https://www.0voice.com/uiwebsite/audio_video_streaming/02/audio_video_open_source_pro.png "音视频开源项目") 
 
 
-##### 2.1.1 音视频编解码开源项目
+##### 2.1.1 编解码开源项目
 
 <div align=left>
   
@@ -297,7 +298,7 @@ OPAL|[opalvoip](http://sourceforge.net/projects/opalvoip/files/)|Open Phone Abst
 Kurento|[www.kurento.org](http://www.kurento.org)|Kurento 是一个WebRTC流媒体服务器以及一些客户端API，开发WWW及智能手机平台的高级视频应用就变得更加容易。可以利用Kurento开发的应用类型包括，视频会议，音视频广播，音视频录制、转码等。
 Janus|[janus.conf.meetecho.com](https://janus.conf.meetecho.com)|Janus 是由Meetecho设计和开发的开源、通用的基于SFU架构的WebRTC流媒体服务器，它支持在Linux的服务器或MacOS上的机器进行编译和安装。
 
-##### 2.1.3 质量传输服务端开源项目
+##### 2.1.3 质量传输开源项目
 
 project|website|introduce
 :------- | :--------------- | :------------
@@ -329,7 +330,7 @@ project|website|introduce
 :------- | :--------------- | :------------ 
 Speex|[xiph.org](https://www.xiph.org)|Speex是一套主要针对语音的开源免费，无专利保护的音频压缩格式。
 FLAC|[xiph.org](https://www.xiph.org)|FLAC中文可解释为无损音频压缩编码。FLAC是一套著名的自由音频压缩编码，其特点是无损压缩。不同于其他有损压缩编码如MP3及AAC，它不会破坏任何原有的音频信息，所以可以还原音乐光盘音质。
-Xvid|[https://www.xvidmovies.com/players](https://www.xvidmovies.com/players/)|Xvid是一个开放源代码的MPEG-4视频编解码器，它是基于OpenDivX而编写的。
+Xvid|[xvidmovies](https://www.xvidmovies.com/players/)|Xvid是一个开放源代码的MPEG-4视频编解码器，它是基于OpenDivX而编写的。
 Lagarith|[lags.leetcode.net](https://lags.leetcode.net/index.htm)|Lagarith，是一种由Ben Greenwood所撰写的影片编解码器（video codec）。
 Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解码器，Thor拥有适当复杂度的高压缩率视频编码解码器，使用众所周知的 motion-compensated 预测的混合视频编码方法和变换编码。
   
