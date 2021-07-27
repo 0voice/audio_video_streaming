@@ -290,9 +290,9 @@ Janus|[janus.conf.meetecho.com](https://janus.conf.meetecho.com)|Janus 是由Mee
 
 project|website|introduce
 :------- | :--------------- | :------------
-callstats.io|[webrtc.org](https://www.webrtc.org)|介绍
-Meetecho|[webrtc.org](https://www.webrtc.org)|介绍
-Agora|[webrtc.org](https://www.webrtc.org)|介绍
+callstats.io|[callstats](https://www.callstats.io)|Callstats.io致力于监控和管理WebRTC应用中的音频和视频通话性能。提供Javascript客户端库，可以监测浏览器终端性能，从而帮助服务供应商准确定位那些媒体质量较低的终端用户，并进行性能问题的诊断。该信息主要是用于产品经理和工程师来提高客户体验质量，主动解决潜在的瓶颈障碍。
+Meetecho|[meetecho/janus-gateway](https://github.com/meetecho/janus-gateway)|Meetecho Janus是Meetecho公司的一款WebRTC（网页即时通信）服务器。
+Agora|[agora.io](https://www.agora.io/cn)|声网Agora提供了一套简单而强大的SDK,开发者可以利用其中的资源在任何手机或电脑应用中加入高清语音和视频通讯功能。
 
 ##### 2.1.4 视频前后处理开源项目
 
