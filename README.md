@@ -264,10 +264,9 @@
   
 project|website|introduce
 :-------: | :---------------: | :------------: 
-WebRTC|[webrtc.org](www.webrtc.org)|首先会用到的肯定是WebRTC，是一个支持网页浏览器进行实时语音对话或视频对话的开源项目。它提供了包括音视频的采集、编解码、网络传输、显示等功能。如果你想基于WebRTC开发实时音视频应用，需要注意，由于WebRTC缺少服务端设计和部署方案，还需要将WebRTC与Janus等服务端类开源项目结合即可。
-x264|[www.videolan.org/developers](www.videolan.org/developers)|H.264是目前应用最广的码流标准。x264则是能够产生符合H.264标准的码流的编码器，它可以将视频流编码为H.264、MPEG-4 AVC格式。它提供了命令行接口与API，前者被用于一些图形用户接口例如Straxrip、MeGUI，后者则被FFmpeg、Handbrake等调用。当然，既然有x264，就有对应HEVC/H.265的x265。
-FFmpeg|[ffmpeg.org](www.ffmpeg.org)|FFmpeg提供了编码、解码、转换、封装等功能，以及剪裁、缩放、色域等后期处理，支持几乎目前所有音视频编码标准（由于格式众多，可以在Wikipedia中找到）。
-
+WebRTC|[webrtc.org](www.webrtc.org)|WebRTC实现了基于网页的视频会议，标准是WHATWG 协议，目的是通过浏览器提供简单的javascript就可以达到实时通讯（Real-Time Communications (RTC)）能力。WebRTC提供了视频会议的核心技术，包括音视频的采集、编解码、网络传输、显示等功能，并且还支持跨平台：windows，linux，mac，android。
+x264|[www.linuxfromscratch.org](https://www.linuxfromscratch.org)|H.264是ITU（International Telecommunication Union，国际通信联盟）和MPEG（Motion Picture Experts Group，运动图像专家组）联合制定的视频编码标准。而x264是一个开源的H.264/MPEG-4 AVC视频编码函数库，是最好的有损视频编码器之一。
+FFmpeg|[ffmpeg.org](www.ffmpeg.org)|FFmpeg是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序。采用LGPL或GPL许可证。它提供了录制、转换以及流化音视频的完整解决方案。FFmpeg提供了编码、解码、转换、封装等功能，以及剪裁、缩放、色域等后期处理。
 </div>
 
 ##### 2.1.2 服务端开源项目
