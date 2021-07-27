@@ -33,42 +33,18 @@
 <br/>
 
 <h2 id="nav_1">🎵 音视频开发</h2>
-<!--
-### 1.1 音视频基础知识入门
-
-  ![音视频基础知识入门说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_11.png "音视频基础知识入门") 
-
-### 1.2 FFMPEG命令实战
-
-  ![FFMPEG命令实战说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_21.png "FFMPEG命令实战") 
-
-### 1.3 FFMPEG编程实战
-
-  ![FFMPEG编程实战说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_31.png "FFMPEG编程实战") 
-
-### 1.4 流媒体实战
-
-  ![流媒体实战说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_41.png "流媒体实战") 
-
-### 1.5 WEBRTC实战
-
-  ![WEBRTC实战说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_51.png "WEBRTC实战") 
--->
 
 ### 1.1 音视频基础知识
 
-#### 1.1.1 FFMPEG环境搭建
-
->Windows平台搭建FFMPEG
->Linux平台搭建FFMPEG
-
-#### 1.1.2 音视频基础
-
-* 音频基础
-* 视频基础
-* 常用工具
-    * Medialnfo
-    * VLC播放器
+>FFMPEG环境搭建
+  >* Windows平台搭建FFMPEG
+  >* Linux平台搭建FFMPEG
+>音视频基础
+  >* 音频基础
+  >* 视频基础
+  >* 常用工具
+  >*   Medialnfo
+  >*   VLC播放器
 
 ### 1.2 FFMPEG命令
 
@@ -244,7 +220,6 @@
 * stun
 * turn
 
-
 <h2 id="nav_2">🌐 开源框架</h2>
 
 ### 2.1 实时音视频开源项目
@@ -258,10 +233,7 @@
 实时音视频开源项目思维导图
 ![音视频开源项目说明](https://www.0voice.com/uiwebsite/audio_video_streaming/02/audio_video_open_source_pro.png "音视频开源项目") 
 
-
 ##### 2.1.1 编解码开源项目
-
-<div align=left>
   
 project|website|introduce
 :------- | :--------------- | :------------
@@ -273,20 +245,8 @@ JSMpeg|[jsmpeg.com](https://jsmpeg.com)|JSMpeg is a Video Player written in Java
 Opus|[opus.nlpl.eu](https://opus.nlpl.eu)|Opus是一个有损声音编码的格式，由Xiph.Org基金会开发，之后由IETF（互联网工程任务组）进行标准化，目标是希望用单一格式包含声音和语音，取代Speex和Vorbis，且适用于网络上低延迟的即时声音传输，标准格式定义于RFC 6716文件。Opus格式是一个开放格式，使用上没有任何专利或限制。
 live555|[www.live555.com](http://www.live555.com)|live555是一个为流媒体提供解决方案的跨平台的C++开源项目，它实现了标准流媒体传输，是一个为流媒体提供解决方案的跨平台的C++开源项目，它实现了对标准流媒体传输协议如RTP/RTCP、RTSP、SIP等的支持。Live555实现了对多种音视频编码格式的音视频数据的流化、接收和处理等支持，包括MPEG、H.263+ 、DV、JPEG视频和多种音频编码。
 
-</div>
 
 ##### 2.1.2 服务端开源项目
-<!--
-project|website|introduce|Baidu network disk
-:------- | :--------------- | :------------| :------------
-jitsi|[jitsi/jitsi](https://github.com/jitsi/jitsi)|Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.|链接：https://pan.baidu.com/s/1IrVtx0nK_0DUo_n7g5tMWQ 提取码：m62i 
-JsSIP|[jssip.net](https://jssip.net)|JsSIP是一个简单易用的JavaScript库，它利用SIP和WebRTC的最新发展，在任何网站上提供全功能的SIP端点。通过JsSIP ，只要几行代码，任何网站都可以通过音频，视频等获得实时通信功能。|链接：https://pan.baidu.com/s/1Uc14fmQdbOmUYJQAXrtWSA 提取码：akf1
-SRS|[www.ossrs.net](http://www.ossrs.net)|SRS定位是运营级的互联网直播服务器集群，追求更好的概念完整性和最简单实现的代码。SRS提供了丰富的接入方案将RTMP流接入SRS，包括推送RTMP到SRS、推送RTSP/UDP/FLV到SRS、拉取流到SRS。SRS还支持将接入的RTMP流进行各种变换，譬如将RTMP流转码、流截图、转发给其他服务器、转封装成HTTP-FLV流、转封装成HLS、转封装成HDS、录制成FLV。SRS包含支大规模集群如CDN业务的关键特性，譬如RTMP多级集群、源站集群、VHOST虚拟服务器、无中断服务Reload、HTTP-FLV集群、Kafka对接。此外，SRS还提供丰富的应用接口，包括HTTP回调、安全策略Security、HTTP API接口、RTMP测速。|链接：
-JRTPLIB|[j0r1/JRTPLIB](https://github.com/j0r1/JRTPLIB)|jrtplib是一个基于C++、面向对象的RTP封装库, jrtplib支持定义于RFC3550中的RTP协议，它使得发送和接收RTP报文变得异常简单，用户不用担心SSRC冲突，也不用考虑如何传输RTCP数据，因为RTCP功能完全在内部实现。|链接：
-OPAL|[opalvoip](http://sourceforge.net/projects/opalvoip/files/)|Open Phone Abstraction Library (OPAL) is a C++ multi-platform, multi-protocol library for Fax, Video & Voice over IP and other networks. Also included is the Portable Tool Library (PTLib) which is a C++ multi-platform abstraction library.|链接：
-Kurento|[www.kurento.org](http://www.kurento.org)|Kurento 是一个WebRTC流媒体服务器以及一些客户端API，开发WWW及智能手机平台的高级视频应用就变得更加容易。可以利用Kurento开发的应用类型包括，视频会议，音视频广播，音视频录制、转码等。|链接：
-Janus|[janus.conf.meetecho.com](https://janus.conf.meetecho.com)|Janus 是由Meetecho设计和开发的开源、通用的基于SFU架构的WebRTC流媒体服务器，它支持在Linux的服务器或MacOS上的机器进行编译和安装。|链接：
--->
 
 project|website|introduce
 :------- | :--------------- | :------------
