@@ -36,7 +36,7 @@
 
 ### 1.1 音视频基础知识入门
 
-![音视频基础知识入门说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_11.png "音视频基础知识入门") 
+  * ![音视频基础知识入门说明](https://www.0voice.com/uiwebsite/audio_video_streaming/01/audio_video_11.png "音视频基础知识入门") 
 
 ### 1.2 FFMPEG命令实战
 
