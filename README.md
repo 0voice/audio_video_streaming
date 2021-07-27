@@ -205,6 +205,9 @@
 >  * stun
 >  * turn
 
+<br/>
+<br/>
+
 <h2 id="nav_2">🌐 开源框架</h2>
 
 ### 2.1 实时音视频开源项目
@@ -268,8 +271,6 @@ GPUImage2|[GPUImage2](https://github.com/BradLarson/GPUImage2)|GPUImage是个功
 open nsfw|[open_nsfw](https://github.com/yahoo/open_nsfw)|open nsfw是雅虎开源项目caffeonspark，使用深度学习训练得到caffe模型。nsfw翻译为不可在工作中看的图片。主要是针对黄图的，恐怖，血腥图片不能识别。
 
 ### 2.2 其他音视频开源项目
-
-<div align=left>
   
 project|website|introduce
 :------- | :--------------- | :------------ 
@@ -279,9 +280,13 @@ Xvid|[xvidmovies](https://www.xvidmovies.com/players/)|Xvid是一个开放源代
 Lagarith|[lags.leetcode.net](https://lags.leetcode.net/index.htm)|Lagarith，是一种由Ben Greenwood所撰写的影片编解码器（video codec）。
 Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解码器，Thor拥有适当复杂度的高压缩率视频编码解码器，使用众所周知的 motion-compensated 预测的混合视频编码方法和变换编码。
   
-</div>
+<br/>
+<br/>
 
 <h2 id="nav_3">🧿 视频</h2>
+
+<br/>
+<br/>
 
 <h2 id="nav_4">👀 业界大神</h2>
 
@@ -291,9 +296,13 @@ No.|author|introduce
 2|赵文杰|擅长音视频编解码和渲染技术，客户端技术专家，开源流媒体服务器SRS开发者之一，现任好未来网校事业部高级架构师一职，负责端开发。
 3|廖庆富|主要从事音视频驱动，多媒体中间件，流媒体服务器的高级开发，主导开发过即时通讯+音视频通话的大型项目。曾就职于联发科，现任职于零声教育，资深音视频讲师。主讲WebRTC,ffmpeg,流媒体。
 
-
+<br/>
+<br/>
 
 <h2 id="nav_5">🍀 paper</h2>
+
+<br/>
+<br/>
 
 <h2 id="nav_6">📙 书籍</h2>
 
@@ -308,6 +317,9 @@ No.|book name|author|introduction
 5|《FFmpeg从入门到精通》|刘歧 |本书围绕着音视频处理的FFmpeg的发展过程、FFmpeg的组成、FFmpeg的命令行使用、FFmpeg的API使用等内容，由浅入深地介绍了使用FFmpeg进行音视频处理的方法，并辅以大量实例，从而帮助对音视频处理感兴趣的读者对FFmpeg有更多的了解。
 
 ### 6.2 视频
+
+<br/>
+<br/>
 
 <h2 id="nav_7">📰 文章</h2>
 <!--
@@ -331,6 +343,9 @@ No.|from|article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 12|声网Agora|[开源十年，WebRTC 的现状与未来](https://mp.weixin.qq.com/s/R6IzbTx4iLhN3UwQBxYmFg)
 13|LiveVideoStack|[WebRTC能给我带来什么？](https://mp.weixin.qq.com/s/xsZPZlvWmEcb4dDbKRlIlA)
 
+<br/>
+<br/>
+
 <h2 id="nav_8">🧾 协议</h2>
 
 * HTTP
@@ -344,6 +359,9 @@ No.|from|article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 * RTMPT, RTMPE, RTMPTE, RTMPS (via librtmp)
 * SDP
 * MMS over TCP
+
+<br/>
+<br/>
 
 <h2 id="nav_9">🥌 实践项目</h2>
 
