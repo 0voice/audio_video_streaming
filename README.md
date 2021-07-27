@@ -314,7 +314,7 @@ No.|book name|author|introduction
 
 No.|article
 :------- | :--------------- 
-1| [WebRTC 发送方码率预估实现解析](https://github.com/0voice/audio_video_streaming)
+1| [WebRTC 发送方码率预估实现解析](https://github.com/0voice/audio_video_streaming/blob/main/article/001.REMARD.md)
 
 <h2 id="nav_8">🧾 协议</h2>
 
