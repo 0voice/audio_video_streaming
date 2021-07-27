@@ -276,15 +276,15 @@ live555|[www.live555.com](http://www.live555.com)|live555是一个为流媒体�
 
 ##### 2.1.2 服务端开源项目
 
-project|website|introduce
+project|website|introduce|Baidu network disk
 :------- | :--------------- | :------------
-jitsi|[webrtc.org](https://www.webrtc.org)|介绍
-JsSIP|[webrtc.org](https://www.webrtc.org)|介绍
-SRS|[webrtc.org](https://www.webrtc.org)|介绍
-JRTPLIB|[webrtc.org](https://www.webrtc.org)|介绍
-OPAL|[webrtc.org](https://www.webrtc.org)|介绍
-Kurento|[webrtc.org](https://www.webrtc.org)|介绍
-Janus|[webrtc.org](https://www.webrtc.org)|介绍
+jitsi|[jitsi/jitsi](https://github.com/jitsi/jitsi)|Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.|链接：https://pan.baidu.com/s/1IrVtx0nK_0DUo_n7g5tMWQ 提取码：m62i 
+JsSIP|[jssip.net](https://jssip.net)|JsSIP是一个简单易用的JavaScript库，它利用SIP和WebRTC的最新发展，在任何网站上提供全功能的SIP端点。通过JsSIP ，只要几行代码，任何网站都可以通过音频，视频等获得实时通信功能。|链接：https://pan.baidu.com/s/1Uc14fmQdbOmUYJQAXrtWSA 提取码：akf1
+SRS|[www.ossrs.net](http://www.ossrs.net)|SRS定位是运营级的互联网直播服务器集群，追求更好的概念完整性和最简单实现的代码。SRS提供了丰富的接入方案将RTMP流接入SRS，包括推送RTMP到SRS、推送RTSP/UDP/FLV到SRS、拉取流到SRS。SRS还支持将接入的RTMP流进行各种变换，譬如将RTMP流转码、流截图、转发给其他服务器、转封装成HTTP-FLV流、转封装成HLS、转封装成HDS、录制成FLV。SRS包含支大规模集群如CDN业务的关键特性，譬如RTMP多级集群、源站集群、VHOST虚拟服务器、无中断服务Reload、HTTP-FLV集群、Kafka对接。此外，SRS还提供丰富的应用接口，包括HTTP回调、安全策略Security、HTTP API接口、RTMP测速。|链接：
+JRTPLIB|[j0r1/JRTPLIB](https://github.com/j0r1/JRTPLIB)|jrtplib是一个基于C++、面向对象的RTP封装库, jrtplib支持定义于RFC3550中的RTP协议，它使得发送和接收RTP报文变得异常简单，用户不用担心SSRC冲突，也不用考虑如何传输RTCP数据，因为RTCP功能完全在内部实现。|链接：
+OPAL|[opalvoip](http://sourceforge.net/projects/opalvoip/files/)|Open Phone Abstraction Library (OPAL) is a C++ multi-platform, multi-protocol library for Fax, Video & Voice over IP and other networks. Also included is the Portable Tool Library (PTLib) which is a C++ multi-platform abstraction library.|链接：
+Kurento|[www.kurento.org](http://www.kurento.org)|Kurento 是一个WebRTC流媒体服务器以及一些客户端API，开发WWW及智能手机平台的高级视频应用就变得更加容易。可以利用Kurento开发的应用类型包括，视频会议，音视频广播，音视频录制、转码等。|链接：
+Janus|[janus.conf.meetecho.com](https://janus.conf.meetecho.com)|Janus 是由Meetecho设计和开发的开源、通用的基于SFU架构的WebRTC流媒体服务器，它支持在Linux的服务器或MacOS上的机器进行编译和安装。|链接：
 
 ##### 2.1.3 质量传输服务端开源项目
 
