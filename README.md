@@ -300,15 +300,15 @@ Agora|[agora.io](https://www.agora.io/cn)|声网Agora提供了一套简单而强
 
 project|website|introduce
 :------- | :--------------- | :------------
-soundtouch|[webrtc.org](https://www.webrtc.org)|介绍
+soundtouch|[soundtouch](https://gitlab.com/soundtouch/soundtouch)|SoundTouch是一个开源的音频处理库，主要实现包含变速、变调、变速同时变调等三个 功能模块，能够对媒体流实时操作，也能对音频文件操作。采用32位浮点或者16位定点，支持单声道或者双声道，采样率范围为8k~48k。
 
 ###### 2.1.4.2 视频
 
 project|website|introduce
 :------- | :--------------- | :------------
-seetaface|[webrtc.org](https://www.webrtc.org)|介绍
-GPUlmage|[webrtc.org](https://www.webrtc.org)|介绍
-open nsfw model|[webrtc.org](https://www.webrtc.org)|介绍
+SeetaFace6|[SeetaFace6Open](https://github.com/SeetaFace6Open/index)|SeetaFace6是中科视拓最新开源的商业正式版本。包含人脸识别的基本部分，如人脸检测、关键点定位、人脸识别。同时增加了活体检测、质量评估、年龄性别估计。并且响应时事，开放了口罩检测以及戴口罩的人脸识别模型。
+GPUImage2|[GPUImage2](https://github.com/BradLarson/GPUImage2)|GPUImage是个功能十分强大、又十分易用的图像处理库。提供各种各样的图像处理滤镜，并且支持照相机和摄像机的实时滤镜。
+open nsfw|[open_nsfw](https://github.com/yahoo/open_nsfw)|open nsfw是雅虎开源项目caffeonspark，使用深度学习训练得到caffe模型。nsfw翻译为不可在工作中看的图片。主要是针对黄图的，恐怖，血腥图片不能识别。
 
 ### 2.2 其他音视频开源项目
 
