@@ -1,4 +1,4 @@
-# Web前端WebRTC攻略(四) 媒体协商与SDP简析
+# Web前端WebRTC攻略-媒体协商与SDP简析
 
 ## 1. 媒体协商
 
