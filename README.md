@@ -325,9 +325,8 @@ No.|book name|author|introduction
 
 <h2 id="nav_7">🌅 面试题</h2>
 
-##### [1. 为什么巨大的原始视频可以编码成很小的视频呢?这其中的技术是什么呢?](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203235%20Prototype.md)
-##### [2、怎么做到直播秒开优化？）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203770%20Ranking%20System.md)
-
+##### [1. 为什么巨大的原始视频可以编码成很小的视频呢?这其中的技术是什么呢?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_001)
+##### [2. 怎么做到直播秒开优化？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_002)
 <br/>
 <br/>
 
