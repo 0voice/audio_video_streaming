@@ -301,7 +301,7 @@ No.|author|introduce
 
 <h2 id="nav_5">🍀 paper</h2>
 
-<h3>ffmpeg</h3>
+<h4>ffmpeg</h4>
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -322,9 +322,43 @@ No.|Title|Company
 
 <h5>ffplay</h5>
 
+No.|Title|Company
+:-------: | :--------------- | :------------
+10|[《Sustainability through Community ffmprovisr and the Case for Collaborative Knowledge Transfer》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/ffplay/97_Andrew_Weaver_SP.pdf)|华盛顿大学
+11|[《Desarrollo de una Aplicación Cliente/Servidor para un Wall View en base a la Plataforma – Cruzada Opensource – FFMPEG (Colección de Software Libre que puede Grabar, Convertir y hacer Streaming de Audio y Vídeo)》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/ffplay/1709.pdf)|
+12|[《Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/ffplay/nsdi18-fouladi.pdf)| 斯坦福大学
+
 <h5>H264</h5>
 
+No.|Title|Company
+:-------: | :--------------- | :------------
+13|[《Performance Comparison of H.265/MPEG-HEVC, VP9, and H.264/MPEG-AVC Encoders》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/10.1.1.669.484.pdf)|
+14|[《3D range geometry video compression with the H.264 codec》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/2013-ole-h264.pdf)| 爱荷华州立大学
+15|[《PERFORMANCE EVALUATION OF H.265/MPEG-HEVC, VP9 AND H.264/MPEGAVC VIDEO CODING》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/8116ijma03.pdf)| 
+16|[《Hardware Architecture Design of an H.264/AVC Video Codec》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/01594776.pdf)| 国立台湾大学
+17|[《Evaluacióndelrendimiento paralelo en el nivelmacro bloque del decodificadorH.264enuna arquitecturamultiprocesador cc­NUMA》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/133112608024.pdf)| 
+18|[《Machine Learning Approach to Detect Tampering in H.264 Video》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/A2126065115.pdf)|
+19|[《Overview of the H.264/AVC Video Coding Standard》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/AVC_overview_1.pdf)| 
+20|[《FAST SHOT DETECTION FOR HIGH QUALITY LOW DELAY H.264 VIDEO CODING》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/cr1077.pdf)| 
+21|[《H.264 vs H.265》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/H.264-vs-H.265.pdf)| 
+22|[《H.264 Video Frame Size estimation》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/H_264_Video_Frame_Size_prediction.pdf)| 瑞典隆德大学
+23|[《The H.264/MPEG4 Advanced Video Coding Standard and its Applications》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/h264-AVC-Standard.pdf)| 
+24|[《Real-time H264/AVC encoder based on enhanced frame level parallelism for smart multicore DSP camera》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/JRTIP-2014-Real-time H264-AVCEncoderBasedOnEnhancedFrameLevelParallelismForSmartMulticoreDSPCamera.pdf)| 
+25|[《Visibility of individual packet loss on H.264 encoded video stream – A user study on the impact of packet loss on perceived video quality》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/MMCN09-QoE.pdf)| 
 
+26|[《Effective Compression of Range Data Streams for Remote Robot Operations using H.264》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/nenciIROS14.pdf)| 
+27|[《Parallel Scalability of H.264》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/parallel_scalability_of_h264.pdf)| 巴塞罗那超级计算中心
+28|[《The H.264/AVC Advanced Video Coding Standard: Overview and Introduction to the Fidelity Range Extensions》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/spie04-h264OverviewPaper.pdf)| 
+29|[《Customizing Wide-SIMD Architectures for H.264》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/swseo-samos09.pdf)| 
+30|[《The H.264/MPEG4 Advanced Video Coding Standard and its Applications》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/Tutorial_H264_MPEG4.pdf)| 
+
+<h4>流媒体</h4>
+
+<h5>RTSP</h5>
+
+No.|Title|Company
+:-------: | :--------------- | :------------
+31|[《Overview of the H.264/AVC Video Coding Standard》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/AVC_overview_1.pdf)| 
 
 <br/>
 <br/>
