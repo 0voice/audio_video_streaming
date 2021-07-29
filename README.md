@@ -310,6 +310,10 @@ No.|Title|Company
 3|[《Companion Paper for “MiniView Layout for Bandwidth-Efficient 360-Degree Video”》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/mm19-miniview-comp.pdf)|俄亥俄州立大学
 4|[《Research on Audio/Video Codec Based on Android》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/Research%020on%020Audio-Video%020Codec%020Based%020on%020Android.PDF.pdf)|北京大学
 5|[《Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/sec20fall_jiang_prepub.pdf)|清华大学
+6|[《Evaluating Fuzz Testing》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/fuzzeval.pdf)|德克萨斯州大学
+7|[《lntel QuickSync Video and FFmpeg》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/cloud-computing-quicksync-video-ffmpeg-white-paper.pdf)|Intel
+
+
 
 <br/>
 <br/>
