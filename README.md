@@ -301,7 +301,7 @@ No.|author|introduce
 
 <h2 id="nav_5">🍀 paper</h2>
 
-<h5 id="1">ffmpeg</h5>
+<h3>ffmpeg</h3>
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -312,6 +312,17 @@ No.|Title|Company
 5|[《Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/sec20fall_jiang_prepub.pdf)|清华大学
 6|[《Evaluating Fuzz Testing》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/fuzzeval.pdf)|德克萨斯州大学
 7|[《lntel QuickSync Video and FFmpeg》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/cloud-computing-quicksync-video-ffmpeg-white-paper.pdf)|Intel
+
+<h5>aac</h5>
+
+No.|Title|Company
+:-------: | :--------------- | :------------
+8|[《TalkingBoogie: Collaborative Mobile AAC System for Non-verbal Children with Developmental Disabilities and Their Caregivers》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/chi2020_talkingboogie_paper.pdf)|首尔国立大学
+9|[《The Performance Of The AAC Pumpcell Circuits At The Gold Fields Limited Driefontein And Kloof Operations》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/RANDOL%020AAC%020Pumpcell%020Paper.pdf)|
+
+<h5>ffplay</h5>
+
+<h5>H264</h5>
 
 
 
