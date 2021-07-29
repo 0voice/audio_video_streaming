@@ -448,6 +448,16 @@ No.|book name|author|introduction
 ##### [48. 播放器暂停、快进快退、seek、逐帧、变速怎么实现？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_048)
 ##### [49. 说说你平时在播放过程中做的优化工作？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_049)
 ##### [50. 你研究过哪些具体的流媒体服务器，是否做过二次开发？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_050)
+##### [51. 什么是GOP?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_051)
+##### [52. 音频测试的测试点,音频时延如何测试?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_052)
+##### [53. 美颜的实现原理，具体实现步骤?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_053)
+##### [54. 如何直播APP抓包过来的文件，如何过滤上行，下行，总码率？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_054)
+##### [55. 如何测试一个美颜挂件？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_055)
+##### [56. 为什么要用FLV？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_056)
+##### [57. 如何测试一个美颜挂件？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_057)
+##### [58. 平常的视频格式？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_058)
+##### [59. 何为homebrew？你用它安装过什么？常用命令有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_059)
+##### [60. RTMP、HLS协议各自的默认端口号是？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_060)
 
 <br/>
 <br/>
