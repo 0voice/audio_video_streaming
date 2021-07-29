@@ -308,7 +308,7 @@ No.|Title|Company
 1|[《From Laptop to Lambda:Outsourcing Everyday Jobs to Thousands of Transient Functional Containers》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/gg-paper.pdf)|斯坦福大学
 2|[《SUSTAINABILITY THROUGH COMMUNITY ffmprovisr and the Case for Collaborative Knowledge Transfer》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/iPres2019_paper_97.pdf)|华盛顿州立大学
 3|[《Companion Paper for “MiniView Layout for Bandwidth-Efficient 360-Degree Video”》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/mm19-miniview-comp.pdf)|俄亥俄州立大学
-4|[《Research on Audio/Video Codec Based on Android》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/Research%20on%20Audio-Video%20Codec%20Based%20on%20Android.PDF.pdf)|北京大学
+4|[《Research on Audio/Video Codec Based on Android》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/Research%20on%20Audio-Video%20Codec%20Based%20on%20Android.pdf)|北京大学
 5|[《Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/sec20fall_jiang_prepub.pdf)|清华大学
 6|[《Evaluating Fuzz Testing》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/fuzzeval.pdf)|德克萨斯州大学
 7|[《lntel QuickSync Video and FFmpeg》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/cloud-computing-quicksync-video-ffmpeg-white-paper.pdf)|Intel
