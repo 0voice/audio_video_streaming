@@ -429,6 +429,26 @@ No.|book name|author|introduction
 ##### [29. 编解码处理时遇到什么困难？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_029)
 ##### [30. 如何秒开视频？什么是秒开视频？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_030)
 ##### [31. 如何降低延迟？如何保证流畅性？如何解决卡顿？解决网络抖动？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_031)
+##### [32. 需要把网络上一段视频存储下来（比如作为mp4 ), 请实现并说出方法（第一个视频需要翻墙才能进）？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_032)
+##### [33. 需要把网络上一段语音存储下来（比如作为mp3 ), 请实现并说出方法？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_033)
+##### [34. 为什么要有YUV这种数据出来？（YUV相比RGB来说的优点）](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_034)
+##### [35. H264/H265有什么区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_035)
+##### [36. 视频或者音频传输，你会选择TCP协议还是UDP协议？为什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_036)
+##### [37. 平时说的软解和硬解，具体是什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_037)
+##### [38. 何为直播？何为点播？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_038)
+##### [39. 简述推流、拉流的工作流程？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_039)
+##### [40. 如何在直播中I帧间隔设置、与帧率分辨率选定？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_040)
+##### [41. 直播推流中推I帧与推非I帧区别是什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_041)
+##### [42. 常见的直播协议有哪些？之间有什么区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_042)
+##### [43. 点播中常见的数据传输协议主要有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_043)
+##### [44. RTMP、HLS协议各自的默认端口号是？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_044)
+##### [45. 简述RTMP协议，如何封装RTMP包？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_045)
+##### [46. m3u8构成是？直播中m3u8、ts如何实时更新？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_046)
+##### [47. 何为音视频同步，音视频同步是什么标准？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_047)
+##### [48. 播放器暂停、快进快退、seek、逐帧、变速怎么实现？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_048)
+##### [49. 说说你平时在播放过程中做的优化工作？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_049)
+##### [50. 你研究过哪些具体的流媒体服务器，是否做过二次开发？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_050)
+
 <br/>
 <br/>
 
