@@ -308,7 +308,7 @@ No.|Title|Company
 1|[《From Laptop to Lambda:Outsourcing Everyday Jobs to Thousands of Transient Functional Containers》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/gg-paper.pdf)|斯坦福大学
 2|[《SUSTAINABILITY THROUGH COMMUNITY ffmprovisr and the Case for Collaborative Knowledge Transfer》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/iPres2019_paper_97.pdf)|华盛顿州立大学
 3|[《Companion Paper for “MiniView Layout for Bandwidth-Efficient 360-Degree Video”》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/mm19-miniview-comp.pdf)|俄亥俄州立大学
-4|[《Research on Audio/Video Codec Based on Android》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/Research%020on%020Audio-Video%020Codec%020Based%020on%020Android.PDF.pdf)|北京大学
+4|[《Research on Audio/Video Codec Based on Android》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/Research%20on%20Audio-Video%20Codec%20Based%20on%20Android.PDF.pdf)|北京大学
 5|[《Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/sec20fall_jiang_prepub.pdf)|清华大学
 6|[《Evaluating Fuzz Testing》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/fuzzeval.pdf)|德克萨斯州大学
 7|[《lntel QuickSync Video and FFmpeg》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/cloud-computing-quicksync-video-ffmpeg-white-paper.pdf)|Intel
@@ -318,7 +318,7 @@ No.|Title|Company
 No.|Title|Company
 :-------: | :--------------- | :------------
 8|[《TalkingBoogie: Collaborative Mobile AAC System for Non-verbal Children with Developmental Disabilities and Their Caregivers》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/chi2020_talkingboogie_paper.pdf)|首尔国立大学
-9|[《The Performance Of The AAC Pumpcell Circuits At The Gold Fields Limited Driefontein And Kloof Operations》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/RANDOL%020AAC%020Pumpcell%020Paper.pdf)|
+9|[《The Performance Of The AAC Pumpcell Circuits At The Gold Fields Limited Driefontein And Kloof Operations》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/RANDOL%20AAC%20Pumpcell%20Paper.pdf)|
 
 <h5>ffplay</h5>
 
@@ -343,7 +343,7 @@ No.|Title|Company
 21|[《H.264 vs H.265》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/H.264-vs-H.265.pdf)| 
 22|[《H.264 Video Frame Size estimation》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/H_264_Video_Frame_Size_prediction.pdf)| 瑞典隆德大学
 23|[《The H.264/MPEG4 Advanced Video Coding Standard and its Applications》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/h264-AVC-Standard.pdf)| 
-24|[《Real-time H264/AVC encoder based on enhanced frame level parallelism for smart multicore DSP camera》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/JRTIP-2014-Real-time%020H264-AVCEncoderBasedOnEnhancedFrameLevelParallelismForSmartMulticoreDSPCamera.pdf)| 
+24|[《Real-time H264/AVC encoder based on enhanced frame level parallelism for smart multicore DSP camera》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/JRTIP-2014-Real-time%20H264-AVCEncoderBasedOnEnhancedFrameLevelParallelismForSmartMulticoreDSPCamera.pdf)| 
 25|[《Visibility of individual packet loss on H.264 encoded video stream – A user study on the impact of packet loss on perceived video quality》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/MMCN09-QoE.pdf)| 
 26|[《Effective Compression of Range Data Streams for Remote Robot Operations using H.264》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/nenciIROS14.pdf)| 
 27|[《Parallel Scalability of H.264》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/parallel_scalability_of_h264.pdf)| 巴塞罗那超级计算中心
@@ -357,14 +357,14 @@ No.|Title|Company
 
 No.|Title|Company
 :-------: | :--------------- | :------------
-31|[《DREAM – A Data Streaming Application Using RTP/RTSP in a Local Area Network》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/2b14328e0c0a65c14b2a307459f69a8c.DREAM%020A%020Data%020Streaming%020Application%020Using%020RTP%020RTSP%020in%020a%020Local%020Area%020Network.pdf)| 
+31|[《DREAM – A Data Streaming Application Using RTP/RTSP in a Local Area Network》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/2b14328e0c0a65c14b2a307459f69a8c.DREAM%20A%20Data%20Streaming%20Application%20Using%20RTP%20RTSP%20in%20a%20Local%20Area%20Network.pdf)| 
 32|[《The Architecture of an Integrated RTSP, RTP and SDP Library》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/10.1.1.124.9084.pdf)| 
 33|[《Secure IPsec based offload architectures for mobile data : architecture description and performance evaluation》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/2014-Q2SWinet-Offload-Perf-Evaluation-Migault.pdf)| 
 34|[《WebRTC for peer-to-peer streaming from an IP camera》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/2019-07.pdf)| 
 35|[《A High Q&S RTSP Server’s Architecture and Implementation Based On Android》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/11647.pdf)| 
 36|[《基于 gst-rtsp-server 的网络摄像机设计与实现》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/A201111-706_1322795059.pdf)| 北京邮电大学计算机学院
 37|[《A Caching and Streaming Framework for Multimedia》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/cache.pdf)| 
-38|[《A Survey on open Source Protocols SIP, RTP, RTCP, RTSP, H.264 for Video Conferencing System》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/FinalPaperA%020Survey%020on%020open%020Source%020Protocols%020SIP,%020RTP,%020RTCP,%020RTSP,%020H.264%020for%020Video%020Conferencing%020System191361.pdf)| 
+38|[《A Survey on open Source Protocols SIP, RTP, RTCP, RTSP, H.264 for Video Conferencing System》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/FinalPaperA%20Survey%20on%20open%20Source%20Protocols%20SIP,%20RTP,%20RTCP,%20RTSP,%20H.264%20for%20Video%20Conferencing%20System191361.pdf)| 
 39|[《A Multimedia Semantic Model for RTSP-Based Multimedia Presentation Systems》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/MSE2002.pdf)| 
 40|[《AN ARCHITECTURE FOR STREAMING CONTROL IN DISTRIBUTED MULTIMEDIA SYSTEMS》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/PROMS2000.pdf)| 
 41|[《Multimedia and streaming traffic analysis》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/rossi06eurongi.pdf)| 
