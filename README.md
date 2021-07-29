@@ -304,7 +304,7 @@ No.|author|introduce
 <h5 id="1">ffmpeg</h5>
 
 No.|Title|Company
-:-------: | :---------------: | :------------: 
+:-------: | :--------------- | :------------
 1|[《A Neural Network Approach to Fast Graph Similarity Computation》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/2019_WSDM_SimGNN.pdf)|加利福尼亚大学洛杉矶分校
 2|[《From Laptop to Lambda:Outsourcing Everyday Jobs to Thousands of Transient Functional Containers》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/gg-paper.pdf)|斯坦福大学
 3|[《SUSTAINABILITY THROUGH COMMUNITY ffmprovisr and the Case for Collaborative Knowledge Transfer》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/iPres2019_paper_97.pdf)|华盛顿州立大学
