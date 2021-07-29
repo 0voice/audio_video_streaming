@@ -45,3 +45,27 @@ GOP越大，中间的P帧和B帧的数量就越多，所以解码出来的视频
 
 如何测试一个美颜挂件？
 
+# <h3 id="subject_058">面试题58</h3>
+
+平常的视频格式？
+
+##### 参考答案
+
+MP4/RMVB/FLY/AVI/MOV/MKV等
+
+# <h3 id="subject_059">面试题59</h3>
+
+何为homebrew？你用它安装过什么？常用命令有哪些？
+
+##### 参考答案
+
+homebrew是一个 Mac系统下所独有的套件管理器，我要做直播，需要 rtmp 和 nginx ，单独安装很复杂，只要在终端里输入简单的安装相应的套件命令即可完成安装，复杂的过程都靠 homebrew 规避掉了！我用它安装过很多东西，比如nginx 搭建流媒体服务器等。常用命令：brew install 、brew uninstall、brew search、brew list、brew update、brew help 等~
+
+# <h3 id="subject_060">面试题60</h3>
+
+RTMP、HLS协议各自的默认端口号是？
+
+##### 参考答案
+
+RTMP端口号：1935
+HLS端口号 ：8080 
