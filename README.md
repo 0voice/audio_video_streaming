@@ -34,6 +34,9 @@
 
 <h2 id="nav_1">🎵 音视频开发</h2>
 
+![image](https://user-images.githubusercontent.com/87458342/127594754-544351bd-d6af-42ff-9a91-740e78fb0d52.png)
+
+<!--
 ### 1.1 音视频基础
 
 >FFMPEG环境搭建
@@ -204,7 +207,7 @@
 >  * rtcp
 >  * stun
 >  * turn
-
+-->
 <br/>
 <br/>
 
