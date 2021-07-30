@@ -288,6 +288,11 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
 
 <h2 id="nav_3">🧿 视频</h2>
 
+### 如何使用FFMPEG将MP4视频文件转换为GIF
+<video id="video" controls="" preload="none" poster="https://user-images.githubusercontent.com/87458342/127600996-ebb2b57e-153c-4b6b-8731-06b8b98e5be5.png">
+  <source id="mp4" src="https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4" type="video/mp4">
+</video>
+
 No.|title
 :------- | :---------------
 1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4)
@@ -399,6 +404,7 @@ No.|book name|author|introduction
 No.|book name|author|introduction
 :------- | :--------------- | :------------ | :-------
 1|《在线视频技术精要》|晓成 |本书着重介绍在线视频行业的基础——音视频技术，从行业的历史、文件格式、标准组织开始，依次介绍了音视频技术的框架、编码、流媒体、播放等知识。
+
 
 <br/>
 <br/>
