@@ -289,8 +289,8 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
 <h2 id="nav_3">🧿 视频</h2>
 
 No.|title
-:------- | :--------------- | :------------ 
-1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://github.com/0voice/audio_video_streaming/delete/main/video/001.mp4)
+:------- | :---------------
+1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4)
 
 <br/>
 <br/>
