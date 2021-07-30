@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<h2 id="nav_1">🎵 音视频开发</h2>
+<h2 id="nav_1">🎵 1. 音视频开发</h2>
 
 ![image](https://user-images.githubusercontent.com/87458342/127594754-544351bd-d6af-42ff-9a91-740e78fb0d52.png)
 
@@ -211,14 +211,17 @@
 <br/>
 <br/>
 
-<h2 id="nav_2">🌐 开源框架</h2>
+<h2 id="nav_2">🌐 2. 开源框架</h2>
 
 ### 2.1 实时音视频开源项目
 
 实时音视频应用共包括几个环节：采集、编码、前后处理、传输、解码、缓冲、渲染等很多环节。每一个细分环节，还有更细分的技术模块。<br/>
 比如，前后处理环节有美颜、滤镜、回声消除、噪声抑制等，采集有麦克风阵列等，编解码有VP8、VP9、H.264、H.265等。
 <br/>
+
+<strong>
 采集->前处理编码->传输->解码后处理->渲染
+</strong>
 <br/>
 
 实时音视频开源项目思维导图
@@ -286,7 +289,7 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
 <br/>
 <br/>
 
-<h2 id="nav_3">🧿 视频</h2>
+<h2 id="nav_3">🧿 3. 视频</h2>
 
 No.|title
 :------- | :---------------
@@ -299,7 +302,7 @@ No.|title
 <br/>
 <br/>
 
-<h2 id="nav_4">👀 业界大神</h2>
+<h2 id="nav_4">👀 4. 业界大神</h2>
 
 No.|author|introduce
 :------- | :--------------- | :------------ 
@@ -312,9 +315,9 @@ No.|author|introduce
 <br/>
 <br/>
 
-<h2 id="nav_5">🍀 paper</h2>
+<h2 id="nav_5">🍀 5. paper</h2>
 
-<h4>ffmpeg</h4>
+### 5.1 ffmpeg
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -326,14 +329,14 @@ No.|Title|Company
 6|[《Evaluating Fuzz Testing》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/fuzzeval.pdf)|德克萨斯州大学
 7|[《lntel QuickSync Video and FFmpeg》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/cloud-computing-quicksync-video-ffmpeg-white-paper.pdf)|Intel
 
-<h5>aac</h5>
+##### 5.1.1 aac
 
 No.|Title|Company
 :-------: | :--------------- | :------------
 8|[《TalkingBoogie: Collaborative Mobile AAC System for Non-verbal Children with Developmental Disabilities and Their Caregivers》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/chi2020_talkingboogie_paper.pdf)|首尔国立大学
 9|[《The Performance Of The AAC Pumpcell Circuits At The Gold Fields Limited Driefontein And Kloof Operations》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/aac/RANDOL%20AAC%20Pumpcell%20Paper.pdf)|
 
-<h5>ffplay</h5>
+##### 5.1.2 ffplay
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -341,7 +344,7 @@ No.|Title|Company
 11|[《Desarrollo de una Aplicación Cliente/Servidor para un Wall View en base a la Plataforma – Cruzada Opensource – FFMPEG (Colección de Software Libre que puede Grabar, Convertir y hacer Streaming de Audio y Vídeo)》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/ffplay/1709.pdf)|
 12|[《Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/ffplay/nsdi18-fouladi.pdf)| 斯坦福大学
 
-<h5>H264</h5>
+##### 5.1.3 H264
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -364,9 +367,9 @@ No.|Title|Company
 29|[《Customizing Wide-SIMD Architectures for H.264》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/swseo-samos09.pdf)| 
 30|[《The H.264/MPEG4 Advanced Video Coding Standard and its Applications》](https://github.com/0voice/audio_video_streaming/blob/main/paper/ffmpeg/H264/Tutorial_H264_MPEG4.pdf)| 
 
-<h4>流媒体</h4>
+##### 5.2 流媒体
 
-<h5>RTSP</h5>
+##### 5.2.1 RTSP
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -387,7 +390,7 @@ No.|Title|Company
 45|[《Kria K26 SOM:The Ideal Platform for Vision AI at the Edge》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/wp529-som-benchmarks.pdf)| 
 46|[《Streaming Video over the Internet:Approaches and Directions》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/RTSP/wu01streaming.pdf)| 
 
-<h5>rtmp</h5>
+##### 5.2.2 rtmp
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -405,7 +408,7 @@ No.|Title|Company
 58|[《Anatomy of a Personalized Livestreaming System》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/rtmp/periscope-imc16.pdf)| 
 59|[《360-Degree Video Streaming: A Survey of the State of the Art》](https://github.com/0voice/audio_video_streaming/blob/main/paper/streaming_media/rtmp/symmetry-12-01491.pdf)| 
 
-<h5>HLS</h5>
+##### 5.2.3 HLS
 
 No.|Title|Company
 :-------: | :--------------- | :------------
@@ -417,7 +420,7 @@ No.|Title|Company
 <br/>
 <br/>
 
-<h2 id="nav_6">📙 书籍</h2>
+<h2 id="nav_6">📙 6. 书籍</h2>
 
 ### 6.1 音频
 
@@ -437,7 +440,7 @@ No.|book name|author|introduction
 <br/>
 <br/>
 
-<h2 id="nav_7">🌅 面试题</h2>
+<h2 id="nav_7">🌅 7. 面试题</h2>
 
 ##### [1. 为什么巨大的原始视频可以编码成很小的视频呢?这其中的技术是什么呢?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_001)
 ##### [2. 怎么做到直播秒开优化？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_002)
@@ -503,7 +506,7 @@ No.|book name|author|introduction
 <br/>
 <br/>
 
-<h2 id="nav_8">📰 文章</h2>
+<h2 id="nav_8">📰 8. 文章</h2>
 <!--
 No.|article
 :------- | :--------------- 
@@ -551,7 +554,7 @@ No.|article
 <br/>
 <br/>
 
-<h2 id="nav_9">🧾 协议</h2>
+<h2 id="nav_9">🧾 9. 协议</h2>
 
 * HTTP
 * RTP
@@ -568,7 +571,7 @@ No.|article
 <br/>
 <br/>
 
-<h2 id="nav_10">🥌 实践项目</h2>
+<h2 id="nav_10">🥌 10. 实践项目</h2>
 
 ### 10.1 音视频通话项目
 
