@@ -293,6 +293,10 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
   <source id="mp4" src="https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4" type="video/mp4">
 </video>
 
+<video src="https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4" controls="true" width="100%" height="auto"/>
+
+
+
 No.|title
 :------- | :---------------
 1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4)
