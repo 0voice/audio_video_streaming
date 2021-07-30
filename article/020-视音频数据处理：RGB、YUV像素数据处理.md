@@ -1,4 +1,4 @@
-# 视音频数据处理入门：RGB、YUV像素数据处理
+# 视音频数据处理：RGB、YUV像素数据处理
 
 本文记录RGB/YUV视频像素数据的处理方法。视频像素数据在视频播放器的解码流程中的位置如下图所示。
 
@@ -872,6 +872,20 @@ simplest_rgb24_colorbar(640, 360,"colorbar_640x360.rgb");
 
 生成的图像截图如下所示。
 ![image](https://user-images.githubusercontent.com/87458342/127623868-126ceb6d-7584-4d21-898f-fa02577bc1c7.png)
+
+
+## 项目主页：
+Github：https://github.com/leixiaohua1020/simplest_mediadata_test
+
+<br/>
+
+本项目包含如下几种视音频数据解析示例：
+1. 像素数据处理程序。包含RGB和YUV像素格式处理的函数。
+2. 音频采样数据处理程序。包含PCM音频采样格式处理的函数。
+3. H.264码流分析程序。可以分离并解析NALU。
+4. AAC码流分析程序。可以分离并解析ADTS帧。
+5. FLV封装格式分析程序。可以将FLV中的MP3音频码流分离出来。
+6. UDP-RTP协议分析程序。可以将分析UDP/RTP/MPEG-TS数据包。
 
 <br/>
 <br/>
