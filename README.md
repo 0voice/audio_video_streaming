@@ -289,17 +289,10 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
 <h2 id="nav_3">🧿 视频</h2>
 
 ### 如何使用FFMPEG将MP4视频文件转换为GIF
-<video id="video" controls="" preload="none" poster="https://user-images.githubusercontent.com/87458342/127600996-ebb2b57e-153c-4b6b-8731-06b8b98e5be5.png">
-  <source id="mp4" src="https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4" type="video/mp4">
-</video>
-
-<video src="https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4" controls="true" width="100%" height="auto"/>
-
-
 
 No.|title
 :------- | :---------------
-1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://github.com/0voice/audio_video_streaming/blob/main/video/001.mp4)
+1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://www.0voice.com/uiwebsite/audio_video_streaming/video/001-如何使用FFMPEG将MP4视频文件转换为GIF.mp4)
 
 <br/>
 <br/>
