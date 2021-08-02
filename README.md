@@ -601,30 +601,46 @@ No.|article
 
 <h2 id="nav_10">🥌 10. 实践项目</h2>
 
-### 10.1 音视频通话项目
+### 10.1 [音视频通话项目](https://webrtc.0voice.com)
 
-实现了多人语音/多人视频项目， <strong>房间号Id一致，用户Id不一致</strong>，即可实现多人语音/多人视频。 [项目地址](https://webrtc.0voice.com)
+实现了多人语音/多人视频项目， <strong>房间号Id一致，用户Id不一致</strong>，即可实现多人语音/多人视频。
 
-### 10.2 Android/iOS 视频播放器
+### 10.2 [Android/iOS 视频播放器](https://github.com/bilibili/ijkplayer)
 
-ijkplayer 是一个基于 ffplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案。 [项目地址](https://github.com/bilibili/ijkplayer)
+ijkplayer 是一个基于 ffplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案。
 
-### 10.3 仿网易云音乐安卓版客户端
+### 10.3 [仿网易云音乐安卓版客户端](https://github.com/aa112901/remusic)
 
-仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载。 [项目地址](https://github.com/aa112901/remusic)
+仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载。
 
-### 10.4 Timber
+### 10.4 [Timber](https://github.com/naman14/Timber)
 
-Timber是一个设计漂亮，功能完善，Material Design风格的音乐播放器。[项目地址](https://github.com/naman14/Timber)
+Timber是一个设计漂亮，功能完善，Material Design风格的音乐播放器。
 
-### 10.5 MPlayer
-
-跨平台的视频播放器,可在Linux和其他类Unix系统、Windows及Mac OS X系统使用。[项目地址](http://www.mplayerhq.hu/design7/dload.html)
-
-### 10.6 [WebRTC入门项目](https://github.com/Jhuster/RTCStartupDemo)
+### 10.5 [WebRTC入门项目](https://github.com/Jhuster/RTCStartupDemo)
 WebRTC初学者的启动演示，包括一个基于Socket.IO的简单信号服务器，以及一些客户端演示Web/Android/IOS/Windows平台。
 [WebRTC入门项目部署步骤](https://github.com/0voice/audio_video_streaming/blob/main/practice_project/README.md)
 
+### 10.6 [getStats](https://github.com/chnl/WebRTC/tree/2329b0b6b8857327de4396aca08cce079352d4f8/getStats)
+使用WebRTC getstats APL返回对等连接状态的微小JavaScript库，如带宽使用、数据包丢失、本地)远程IP地址和端口、连接类型等。
 
-### 10.6 getStats
-使用WebRTC getstats APL返回对等连接状态的微小JavaScript库，如带宽使用、数据包丢失、本地)远程IP地址和端口、连接类型等。[项目地址](https://github.com/chnl/WebRTC/tree/2329b0b6b8857327de4396aca08cce079352d4f8/getStats)
+### 10.7 [MPlayer](http://www.mplayerhq.hu/design7/dload.html)
+跨平台的视频播放器,可在Linux和其他类Unix系统、Windows及Mac OS X系统使用。
+
+### 10.8 [KxMovie](https://github.com/kolyvan/kxmovie)
+IOS平台基于FFMPEG播放器
+
+### 10.9 [Vitamio](https://github.com/yixia/VitamioBundle)
+Android/IOS平台上的多媒体框架，带有硬件加速解码和渲染.
+
+### 10.10 [YUV2RGB](http://wss.co.uk/pinknoise/yuv2rgb/)
+YUV转RGB.
+
+### 10.11 [TSDemux](http://code.google.com/p/tsdemuxer)
+将TS流解码为PES或ES.(下载这个源码需要FQ)
+
+### 10.12 [VLC](http://www.videolan.org/vlc/index.html)
+跨平台的视频播放器。现在也有安卓版本。也可以作为流媒体服务器。
+
+### 10.13 [FFDshow](http://sourceforge.NET/projects/ffdshow-tryout)
+免费的编解码软件，基于windows平台。原因就是directshow就是微软开发的，只能用于windows平台。
