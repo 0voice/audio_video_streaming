@@ -621,8 +621,10 @@ Timber是一个设计漂亮，功能完善，Material Design风格的音乐播�
 
 跨平台的视频播放器,可在Linux和其他类Unix系统、Windows及Mac OS X系统使用。[项目地址](http://www.mplayerhq.hu/design7/dload.html)
 
-### 10.6 WebRTC入门项目
-WebRTC初学者的启动演示，包括一个基于Socket.IO的简单信号服务器，以及一些客户端演示Web/Android/IOS/Windows平台。[项目地址](https://github.com/Jhuster/RTCStartupDemo)
+### 10.6 [WebRTC入门项目](https://github.com/Jhuster/RTCStartupDemo)
+WebRTC初学者的启动演示，包括一个基于Socket.IO的简单信号服务器，以及一些客户端演示Web/Android/IOS/Windows平台。
+[WebRTC入门项目部署步骤](https://github.com/0voice/audio_video_streaming/blob/main/practice_project/README.md)
+
 
 ### 10.6 getStats
 使用WebRTC getstats APL返回对等连接状态的微小JavaScript库，如带宽使用、数据包丢失、本地)远程IP地址和端口、连接类型等。[项目地址](https://github.com/chnl/WebRTC/tree/2329b0b6b8857327de4396aca08cce079352d4f8/getStats)
