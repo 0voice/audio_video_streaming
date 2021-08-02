@@ -608,3 +608,8 @@ No.|article
 ### 10.2 Android/iOS 视频播放器
 
 ijkplayer 是一个基于 ffplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案。 [项目地址](https://github.com/bilibili/ijkplayer)
+
+### 10.3 仿网易云音乐安卓版客户端
+
+ijkplayer 是一个基于 ffplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案。 [项目地址](https://github.com/aa112901/remusic)
+![image](https://user-images.githubusercontent.com/87458342/127866152-ffa047ba-1ed7-4503-a516-4063dc26770c.png)
