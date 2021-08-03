@@ -291,6 +291,8 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
 
 <h2 id="nav_3">🧿 3. 视频</h2>
 
+### 3.1 国外大神
+
 No.|title
 :------- | :---------------
 1|[如何使用FFMPEG将MP4视频文件转换为GIF](https://www.0voice.com/uiwebsite/audio_video_streaming/video/001-如何使用FFMPEG将MP4视频文件转换为GIF.mp4)
@@ -310,6 +312,34 @@ No.|title
 15|[IP camera stream using RTSP and openCV python](https://www.0voice.com/uiwebsite/audio_video_streaming/video/015-IP%20camera%20stream%20using%20RTSP%20and%20openCV%20python.mp4)
 16|[NAT Traversal & RTSP](https://www.0voice.com/uiwebsite/audio_video_streaming/video/016-NAT%20Traversal%20%26%20RTSP.mp4)
 17|[Simple client et serveur de Streaming RTSP MJPEG(JAVA SE)](https://www.0voice.com/uiwebsite/audio_video_streaming/video/017-Simple%20client%20et%20serveur%20de%20Streaming%20RTSP%20MJPEG(JAVA%20SE).mp4)
+
+### 3.2 国内大佬
+
+No.|title | 地址
+:------- | :---------------
+18|windows ffmpeg命令行环境搭建|[百度网盘](https://pan.baidu.com/s/1bsmyyo08F5aLh6L1OvSa-Q)  提取码：1234
+19|FFMPEG如何查询命令帮助文档|[百度网盘](https://pan.baidu.com/s/1HARvntSZvKi7vQxQKr9-Iw)  提取码：1235
+20|ffmpeg音视频处理流程|[百度网盘](https://pan.baidu.com/s/1BnRpNT9xlVi9ulR8loJgAQ)  提取码：1236
+21|ffmpeg命令分类查询|[百度网盘](https://pan.baidu.com/s/1fGMDnYwDTKeLeLnOT9CRkA)  提取码：63vk
+22|ffplay播放控制|[百度网盘](https://pan.baidu.com/s/1CZnzHTg6bl-0EgnFNIrtzw)  提取码：iu6m
+23|ffplay命令选项(上)|[百度网盘](https://pan.baidu.com/s/1eerY8gM-GrXFk1Wm9u8f9Q)  提取码：92rp
+24|ffplay命令选项(下)|[百度网盘](https://pan.baidu.com/s/1bComAl6JmmVdO4kCrkxdSA)  提取码：muuq
+25|ffplay命令播放媒体|[百度网盘](https://pan.baidu.com/s/1HPGoYFwJg70L-xmiRzbPQQ)  提取码：xf6h
+26|ffplay简单过滤器|[百度网盘](https://pan.baidu.com/s/1Z0DOAQ8_OR26PkhIUHR7rg)  提取码：h3xi
+27|ffmpeg命令参数说明|[百度网盘](https://pan.baidu.com/s/1ZJ0dToo-n8XEDs6lOkmwBA)  提取码：onrf
+28|ffmpeg命令提取音视频数据|[百度网盘](https://pan.baidu.com/s/1hd4OmFm7k7qjPKjG7l_smw)  提取码：c24l
+29|ffmpeg命令提取像素格式和PCM数据|[百度网盘](https://pan.baidu.com/s/1UABaJ1YJQqBV_s9MnaVQPw)  提取码：yuc7
+30|ffmpeg命令转封装|[百度网盘](https://pan.baidu.com/s/1kVda8xh8TKDtIdlwLUTVWw)  提取码：n8yq
+31|fmpeg命令裁剪和合并视频|[百度网盘](https://pan.baidu.com/s/17-JqS2-aHeD1jJk_ZsLX4w)  提取码：q0at
+32|fmpeg命令图片与视频互转|[百度网盘](https://pan.baidu.com/s/1u2BVMyZcOjGy71EQ-mB1DA)  提取码：xza9
+33|ffmpeg命令视频录制|[百度网盘](https://pan.baidu.com/s/1QZKSbfoog_eD98jELQBHUg)  提取码：3ubw
+34|ffmpeg命令直播(上)|[百度网盘](https://pan.baidu.com/s/1ydHnT3vpqBrwd6qELvZqKA)  提取码：y8gr
+35|ffmpeg命令直播(下)|[百度网盘](https://pan.baidu.com/s/1L8YUAVXsg257QAYv4e4zuQ)  提取码：xpn8
+36|ffmpeg过滤器-裁剪|[百度网盘](https://pan.baidu.com/s/1YvsKdZ5CJZW2onKw3AoAeg)  提取码：8nmx
+37|ffmpeg过滤器-文字水印|[百度网盘](https://pan.baidu.com/s/1cowYnQPjFWCvIZBl_YsxhA)  提取码：e6ch
+38|ffmpeg过滤器-图片水印|[百度网盘](https://pan.baidu.com/s/1qn_OX9w9hyesQB6Vh6VAXA)  提取码：rq5k
+39|ffmpeg过滤器-画中画|[百度网盘](https://pan.baidu.com/s/18cDd8a6rKEazHM1MIYu5Vg)  提取码：y3ny
+40|ffmpeg过滤器-多宫格|[百度网盘](https://pan.baidu.com/s/1omqP6kEuyRMEbjgXNQPjuw)  提取码：wm82
 
 <br/>
 <br/>
