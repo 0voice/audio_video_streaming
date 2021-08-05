@@ -805,13 +805,13 @@ YUV转RGB.
 ### 10.13 [FFDshow](http://sourceforge.NET/projects/ffdshow-tryout)
 免费的编解码软件，基于windows平台。原因就是directshow就是微软开发的，只能用于windows平台。
 
-### 10.14 [PlayerSDK(Android平台)](http://sourceforge.NET/projects/ffdshow-tryout)
+### 10.14 [PlayerSDK(Android平台)](https://github.com/0voice/audio_video_streaming/blob/main/practice_project/project_02.md)
 这是一个专注音视频播放器的库,目前还在不断优化中。
 
-### 10.15 [VideoDownloader(Android平台)](http://sourceforge.NET/projects/ffdshow-tryout)
+### 10.15 [VideoDownloader(Android平台)](https://github.com/0voice/audio_video_streaming/blob/main/practice_project/project_03.md)
 视频下载SDK功能。
 
-### 10.16 [MediaSDK(Android平台)](http://sourceforge.NET/projects/ffdshow-tryout)
+### 10.16 [MediaSDK(Android平台)](https://github.com/0voice/audio_video_streaming/blob/main/practice_project/project_04.md)
 这是一个专注音视频边下边播的库。
 
 <br/>
