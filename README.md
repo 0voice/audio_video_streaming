@@ -481,6 +481,20 @@ No.|Title|Company
 
 <h2 id="nav_6">📙 6. 书籍</h2>
 
+No.|book name|author|introduction
+:------- | :--------------- | :------------ | :-------
+1|[FFmpeg从入门到精通]() |刘歧, 赵文杰|
+2|[视频图像处理与性能优化]() |梁军, 贾海鹏|
+3|[数字图像与视频处理]() |卢官明, 唐贵进, 崔子冠 |
+4|[数字音视频技术及应用]() |陈光军|
+5|[音视频开发进阶指南：基于Android与iOS平台的实践]() |展晓凯, 魏晓红|
+6|[Real-Time Communication with WebRTC]() |Salvatore Loreto, Simon Pietro Romano|
+7|[FFMPEG - From Zero to Hero]() |Nick, Ferrando|
+8|[Learning WebRTC]() |Dan Ristic|
+9|[Handbook on SDP for Multimedia Session Negotiations SIP and WebRTC IP Telephony]() |Roy, Radhika Ranjan|
+10|[FFmpeg Basics 2012]() |Frantisek Korbel|
+
+<!--
 ### 6.1 音频
 
 No.|book name|author|introduction
@@ -494,7 +508,7 @@ No.|book name|author|introduction
 No.|book name|author|introduction
 :------- | :--------------- | :------------ | :-------
 1|《在线视频技术精要》|晓成 |本书着重介绍在线视频行业的基础——音视频技术，从行业的历史、文件格式、标准组织开始，依次介绍了音视频技术的框架、编码、流媒体、播放等知识。
-
+-->
 
 <br/>
 <br/>
