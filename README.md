@@ -485,14 +485,14 @@ No.|book name|author|introduction
 :------- | :--------------- | :------------ | :-------
 1|[FFmpeg从入门到精通]() |刘歧, 赵文杰|
 2|[视频图像处理与性能优化]() |梁军, 贾海鹏|
-3|[数字图像与视频处理]() |卢官明, 唐贵进, 崔子冠 |
+3|[数字图像与视频处理](https://github.com/0voice/audio_video_streaming/blob/main/books/003-数字图像与视频处理.pdf) |卢官明, 唐贵进, 崔子冠 |
 4|[数字音视频技术及应用]() |陈光军|
-5|[音视频开发进阶指南：基于Android与iOS平台的实践]() |展晓凯, 魏晓红|
-6|[Real-Time Communication with WebRTC]() |Salvatore Loreto, Simon Pietro Romano|
-7|[FFMPEG - From Zero to Hero]() |Nick, Ferrando|
-8|[Learning WebRTC]() |Dan Ristic|
+5|[音视频开发进阶指南：基于Android与iOS平台的实践](https://github.com/0voice/audio_video_streaming/blob/main/books/005-音视频开发进阶指南：基于Android与iOS平台的实践.pdf) |展晓凯, 魏晓红|
+6|[Real-Time Communication with WebRTC](https://github.com/0voice/audio_video_streaming/blob/main/books/006-Real-Time%20Communication%20with%20WebRTC.pdf) |Salvatore Loreto, Simon Pietro Romano|
+7|[FFMPEG - From Zero to Hero](https://github.com/0voice/audio_video_streaming/blob/main/books/007-FFMPEG%20-%20From%20Zero%20to%20Hero.pdf) |Nick, Ferrando|
+8|[Learning WebRTC](https://github.com/0voice/audio_video_streaming/blob/main/books/008-Learning%20WebRTC.pdf) |Dan Ristic|
 9|[Handbook on SDP for Multimedia Session Negotiations SIP and WebRTC IP Telephony]() |Roy, Radhika Ranjan|
-10|[FFmpeg Basics 2012]() |Frantisek Korbel|
+10|[FFmpeg Basics 2012](https://github.com/0voice/audio_video_streaming/blob/main/books/010-FFmpeg%20Basics%202012.pdf) |Frantisek Korbel|
 
 <!--
 ### 6.1 音频
