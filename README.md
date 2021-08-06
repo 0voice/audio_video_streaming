@@ -495,6 +495,7 @@ No.|book name|author|introduction
 10|[FFmpeg Basics 2012](https://github.com/0voice/audio_video_streaming/blob/main/books/010-FFmpeg%20Basics%202012.pdf) |Frantisek Korbel|
 -->
 
+<!--
 No.|book name|author
 :------- | :--------------- | :------------ 
 1|[视频图像处理与性能优化](https://github.com/0voice/audio_video_streaming/blob/main/books/002-视频图像处理与性能优化.pdf) |梁军, 贾海鹏
@@ -504,6 +505,22 @@ No.|book name|author
 5|[FFMPEG - From Zero to Hero](https://github.com/0voice/audio_video_streaming/blob/main/books/007-FFMPEG%20-%20From%20Zero%20to%20Hero.pdf) |Nick, Ferrando
 6|[Learning WebRTC](https://github.com/0voice/audio_video_streaming/blob/main/books/008-Learning%20WebRTC.pdf) |Dan Ristic
 7|[FFmpeg Basics 2012](https://github.com/0voice/audio_video_streaming/blob/main/books/010-FFmpeg%20Basics%202012.pdf) |Frantisek Korbel
+-->
+
+
+No.|book name|extraction code|author
+:------- | :--------------- | :------------ | :-------
+1|FFmpeg从入门到精通|[百度网盘](https://pan.baidu.com/s/17JdJAxO77hFFhhy57tO_LA)  提取码：wwj3|刘歧, 赵文杰
+2|视频图像处理与性能优化|[百度网盘](https://pan.baidu.com/s/1T70MDhHMoNcubFSXlcuBdA)  提取码：0uv1|梁军, 贾海鹏
+3|数字图像与视频处理|[百度网盘](https://pan.baidu.com/s/1c72wyHDQF_El4m4ns4_Vog)  提取码：o4k3|卢官明, 唐贵进, 崔子冠
+4|数字音视频技术及应用|[百度网盘](https://pan.baidu.com/s/12lc5TrDuaDG4Vc5Mwr2B1w)  提取码：6mjx|陈光军
+5|音视频开发进阶指南：基于Android与iOS平台的实践|[百度网盘](https://pan.baidu.com/s/1oM5aJFqM7vg_FNUnEzmy3A)  提取码：x2qh|展晓凯, 魏晓红
+6|视频编码全角度详解：AVS_China、H.264_MPEG-4_PART10、HEVC、VP6、DIRAC、VC-1|[百度网盘](https://pan.baidu.com/s/1xceBp0GFYL-5a0AZ8jmQ6A)  提取码：xoke|刘歧, 赵文杰
+7|FFMPEG - From Zero to Hero|[百度网盘](https://pan.baidu.com/s/1h-0-pNsMQHt5FsSfw-BBNA)  提取码：8qng|Nick, Ferrando|
+8|FFmpeg Basics 2012|[百度网盘](https://pan.baidu.com/s/1Lrv4E7GWsVPGbjLjqiMFbA)  提取码：ubnv|Frantisek Korbel|
+9|Handbook on SDP for Multimedia Session Negotiations SIP and WebRTC IP Telephony |[百度网盘](https://pan.baidu.com/s/1KLEb_u0DNqS5q5QWIDFVZA)  提取码：370t|Roy, Radhika Ranjan|
+10|Learning WebRTC|[百度网盘](https://pan.baidu.com/s/1iXPmvzgeicDmdmMcocxqpA)  提取码：f5un|Dan Ristic|
+11|Real-Time Communication with WebRTC |[百度网盘](https://pan.baidu.com/s/1f10Hsz37VAv5actU_he_IA)  提取码：tvow|Salvatore Loreto, Simon Pietro Romano|
 
 <!--
 ### 6.1 音频
