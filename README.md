@@ -876,7 +876,7 @@ YUV转RGB.
 
 ![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
 
-#### 微信扫码联系VIP课程咨询橙子老师，免费领取更多福利干货资料【备注：GitHub音视频】
+#### 微信扫码联系VIP课程咨询贝贝老师，免费领取更多福利干货资料【备注：GitHub音视频】
 ![barcode](https://user-images.githubusercontent.com/87458342/128681533-a1549d1a-2ccb-4e66-971f-1bd6f512913c.png)
 
 
