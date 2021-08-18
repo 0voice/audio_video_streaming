@@ -8,6 +8,13 @@
 
 <br/>
 
+📢 重磅消息 —— 更多资源repo：
+
+* [最全C++11/14/17/20/23新特性](https://github.com/0voice/cpp_new_features)
+* [500个常用数据结构，算法，实战项目，经典游戏含代码，可拷贝代码直接运行](https://github.com/0voice/algorithm-structure#nav_01)
+
+<br/>
+
 <div align=left>
 
 <font size=4 color=#DC143C>
