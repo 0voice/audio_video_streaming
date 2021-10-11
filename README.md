@@ -6,10 +6,6 @@
 -->
 </div>
 
-<br/>
-
-<br/>
-
 <div align=left>
 
 <font size=4 color=#DC143C>
@@ -18,9 +14,6 @@
   
 </div>
 
-<br/>
-<br/>
-<br/>
 
 <div align=center>
   
@@ -30,9 +23,6 @@
   
 </div>
 
-<br/>
-<br/>
-<br/>
 
 <h2 id="nav_1">🎵 1. 音视频开发</h2>
 
