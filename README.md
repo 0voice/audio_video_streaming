@@ -250,7 +250,7 @@ Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解
 
 <h2 id="nav_3">🧿 视频</h2>
 
-### 3.1 国外大神
+### 国外大神
 
 No.|title
 :------- | :---------------
@@ -280,7 +280,7 @@ No.|title
 24|[How to build Serverless Video Chat App using Firebase and WebRTC in React](https://www.0voice.com/uiwebsite/audio_video_streaming/video/024-How%20to%20build%20Serverless%20Video%20Chat%20App%20using%20Firebase%20and%20WebRTC%20in%20React.mp4)
 25|[Implementation Lessons using WebRTC in Asterisk](https://www.0voice.com/uiwebsite/audio_video_streaming/video/025-Implementation%20Lessons%20using%20WebRTC%20in%20Asterisk.mp4)
 
-### 3.2 国内大佬
+### 国内大佬
 
 No.|title | 地址
 :------- | :---------------| :---------------
