@@ -1,39 +1,25 @@
-<div align=left>
+<div >
 
-# 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，开源框架，协议，业界大神名单。
+# 【🔥🔥🔥热门、吃香】音视频流媒体权威资料整理，精选文章，学术论文，大佬视频，实践项目，开源框架，协议，业界大神一览
 
 </div>
-
-<br>
-
-<div align=left>
-
-<font size=4 color=#DC143C>
-音视频的知识纷繁复杂，自学非常困难，既需要非常扎实的基础知识，又需要有很多的工程经验；本项目致力于从音视频开发，开源框架，视频，业界大神，paper，书籍协议，文章，实践项目整理素材，为广大开发者学习音视频技术提供便利。
-</font>
-  
-</div>
-
-
 
 <br>
 
 <div align=center>
 
   
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/136788392-b2fedda3-0966-440e-af77-a939499436e2.png"/>
+  
+## —— 近年来热门、吃香地技术方向
+  
+<br>  
+
  [📙♂<br>&nbsp;&nbsp;&nbsp; &nbsp;书籍 &nbsp;&nbsp;&nbsp;&nbsp; ](#nav_6)  |[🌅<br>&nbsp;&nbsp;&nbsp;  面试题&nbsp;&nbsp;&nbsp; ](#nav_7)|  [📰<br>&nbsp;&nbsp;&nbsp; 文章&nbsp;&nbsp;&nbsp; ](#nav_8) 
 :-------: | :-------: | :---------:
  **[🌐<br>开源框架](#nav_2)**|**[💽<br>视频](#nav_3)**  |  **[👀<br>业界大神](#nav_4)**
 **[📄<br>学术论文](#nav_5)** | **[🖼<br>协议](#nav_9)** | **[☁<br>实践项目](#nav_10)**
   
-</div>
-
-<br>
-
-<div  align=center>
-  
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/87458342/127594754-544351bd-d6af-42ff-9a91-740e78fb0d52.png"/>
-
 </div>
 
 <br>
