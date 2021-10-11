@@ -645,9 +645,6 @@ YUV转RGB.
 
 ## 联系专栏
 
-#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
-每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037127)
-
 #### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
 <img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
