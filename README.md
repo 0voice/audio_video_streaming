@@ -11,7 +11,7 @@
   
 <img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/136788392-b2fedda3-0966-440e-af77-a939499436e2.png"/>
   
-## —— 近年来热门、吃香地技术方向
+## —— 近年来热门、吃香、值得学习的技术方向
   
 <br>  
 
