@@ -241,6 +241,7 @@ project|website|introduce
 SeetaFace6|[SeetaFace6Open](https://github.com/SeetaFace6Open/index)|SeetaFace6是中科视拓最新开源的商业正式版本。包含人脸识别的基本部分，如人脸检测、关键点定位、人脸识别。同时增加了活体检测、质量评估、年龄性别估计。并且响应时事，开放了口罩检测以及戴口罩的人脸识别模型。
 GPUImage2|[GPUImage2](https://github.com/BradLarson/GPUImage2)|GPUImage是个功能十分强大、又十分易用的图像处理库。提供各种各样的图像处理滤镜，并且支持照相机和摄像机的实时滤镜。
 open nsfw|[open_nsfw](https://github.com/yahoo/open_nsfw)|open nsfw是雅虎开源项目caffeonspark，使用深度学习训练得到caffe模型。nsfw翻译为不可在工作中看的图片。主要是针对黄图的，恐怖，血腥图片不能识别。
+PaddleGAN|[PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)|PaddleGAN是百度飞桨团队开源的对抗网络工具箱，提供了视频超分、插帧、上色等高质量深度学习能力。
 
 ### 其他音视频开源项目
   
@@ -625,6 +626,9 @@ YUV转RGB.
 
 ### [MediaSDK(Android平台)](https://github.com/0voice/audio_video_streaming/blob/main/practice_project/project_04.md)
 这是一个专注音视频边下边播的库。
+
+### [PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech)  
+夜雨飘零大佬撰写的基于《Baidu's Deep Speech 2 paper》论文深度学习语音识别实战项目。
 
 <br/>
 
