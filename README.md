@@ -252,6 +252,8 @@ FLAC|[xiph.org](https://www.xiph.org)|FLAC中文可解释为无损音频压缩�
 Xvid|[xvidmovies](https://www.xvidmovies.com/players/)|Xvid是一个开放源代码的MPEG-4视频编解码器，它是基于OpenDivX而编写的。
 Lagarith|[lags.leetcode.net](https://lags.leetcode.net/index.htm)|Lagarith，是一种由Ben Greenwood所撰写的影片编解码器（video codec）。
 Thor|[wwww.thor.com](https://www.thor.com)|Thor是思科开源的视频编码解码器，Thor拥有适当复杂度的高压缩率视频编码解码器，使用众所周知的 motion-compensated 预测的混合视频编码方法和变换编码。
+NDK_OpenGLES_3_0|[https://github.com/githubhaohao/NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)|Android OpenGLES 3.0 开发系统性学习教程
+OpenGLCamera2|[https://github.com/githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2)|Android OpenGL Camera 2.0 实现 30 种滤镜和抖音特效
   
 <br/>
 
