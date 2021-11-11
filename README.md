@@ -41,17 +41,17 @@
 
 No.|book name|extraction code|author
 :------- | :--------------- | :------------ | :-------
-1|FFmpeg从入门到精通|[百度网盘](https://pan.baidu.com/s/14e7IMvqi0llWw_fGtVq1KQ)  提取码：n4zj|刘歧, 赵文杰
-2|视频图像处理与性能优化|[百度网盘](https://pan.baidu.com/s/1RJ39Gqv22tXeT4ET0zIdwg)  提取码：9kf0|梁军, 贾海鹏
-3|数字图像与视频处理|[百度网盘](https://pan.baidu.com/s/1XOSDnyLnl3rUyUL3_lmgyA)  提取码：urz3|卢官明, 唐贵进, 崔子冠
-4|数字音视频技术及应用|[百度网盘](https://pan.baidu.com/s/1uQjMr3yo7UruVdnbfKzp8w)  提取码：ezio|陈光军
-5|音视频开发进阶指南：基于Android与iOS平台的实践|[百度网盘](https://pan.baidu.com/s/1mF-_W7ijHNIsU33lwrZfSg)  提取码：vr7q|展晓凯, 魏晓红
-6|视频编码全角度详解：AVS_China、H.264_MPEG-4_PART10、HEVC、VP6、DIRAC、VC-1|[百度网盘](https://pan.baidu.com/s/1I80bOCSkvzY-Si1psTm9yg)  提取码：mj2d|刘歧, 赵文杰
-7|FFMPEG - From Zero to Hero|[百度网盘](https://pan.baidu.com/s/1TViWZRtEtRo1mRqNpqWEbQ)  提取码：0kiu|Nick, Ferrando|
-8|FFmpeg Basics 2012|[百度网盘](https://pan.baidu.com/s/1aWTbjf4ct3tf96mWqWHkyw)  提取码：migt|Frantisek Korbel|
-9|Handbook on SDP for Multimedia Session Negotiations SIP and WebRTC IP Telephony |[百度网盘](https://pan.baidu.com/s/1MSLNqy8Ct7JIBE4vbQ1rkw)  提取码：ol6q|Roy, Radhika Ranjan|
-10|Learning WebRTC|[百度网盘](https://pan.baidu.com/s/1K10VEkFFF0hwQZyR2vaQjQ)  提取码：85wo|Dan Ristic|
-11|Real-Time Communication with WebRTC |[百度网盘](https://pan.baidu.com/s/130Hn1EGqSDKg-tIwlKyUFQ)  提取码：673p|Salvatore Loreto, Simon Pietro Romano|
+1|FFmpeg从入门到精通|刘歧, 赵文杰
+2|视频图像处理与性能优化|梁军, 贾海鹏
+3|数字图像与视频处理|卢官明, 唐贵进, 崔子冠
+4|数字音视频技术及应用|陈光军
+5|音视频开发进阶指南：基于Android与iOS平台的实践|展晓凯, 魏晓红
+6|视频编码全角度详解：AVS_China、H.264_MPEG-4_PART10、HEVC、VP6、DIRAC、VC-1|刘歧, 赵文杰
+7|FFMPEG - From Zero to Hero|Nick, Ferrando|
+8|FFmpeg Basics 2012|Frantisek Korbel|
+9|Handbook on SDP for Multimedia Session Negotiations SIP and WebRTC IP Telephony |Roy, Radhika Ranjan|
+10|Learning WebRTC|Dan Ristic|
+11|Real-Time Communication with WebRTC |Salvatore Loreto, Simon Pietro Romano|
 
 <br/>
 
