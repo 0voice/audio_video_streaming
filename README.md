@@ -292,7 +292,7 @@ No.|title
 
 No.|title | 地址
 :------- | :---------------| :---------------
-26|windows ffmpeg命令行环境搭建|[百度网盘](https://pan.baidu.com/s/1eCQ7o3gcuU06k6-ZcXUASQ)  提取码：i3f2
+26|windows ffmpeg命令行环境搭建|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud/?p=1)  
 27|FFMPEG如何查询命令帮助文档|[百度网盘](https://pan.baidu.com/s/1oA2OErmfZZpEEY_wRQrl_A)  提取码：9mqk
 28|ffmpeg音视频处理流程|[百度网盘](https://pan.baidu.com/s/1jSIop6IUtxOwkse7xnCI7Q)  提取码：azx3
 29|ffmpeg命令分类查询|[百度网盘](https://pan.baidu.com/s/1VGwop_lOJozEh_gYpKYkrw)  提取码：odhc
