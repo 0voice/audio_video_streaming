@@ -293,35 +293,35 @@ No.|title
 No.|title | 地址
 :------- | :---------------| :---------------
 26|windows ffmpeg命令行环境搭建|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud/?p=1)  
-27|FFMPEG如何查询命令帮助文档|[百度网盘](https://pan.baidu.com/s/1oA2OErmfZZpEEY_wRQrl_A)  提取码：9mqk
-28|ffmpeg音视频处理流程|[百度网盘](https://pan.baidu.com/s/1jSIop6IUtxOwkse7xnCI7Q)  提取码：azx3
-29|ffmpeg命令分类查询|[百度网盘](https://pan.baidu.com/s/1VGwop_lOJozEh_gYpKYkrw)  提取码：odhc
-30|ffplay播放控制|[百度网盘](https://pan.baidu.com/s/1BbKQvJdokQrazoNtYjhA2Q)  提取码：e51s
-31|ffplay命令选项(上)|[百度网盘](https://pan.baidu.com/s/1upOGZQdmXyiZbWO1LBcTCQ)  提取码：n1zx
-32|ffplay命令选项(下)|[百度网盘](https://pan.baidu.com/s/1d55H9PyK1CU9Nfu37NIBhw)  提取码：rtn0
-33|ffplay命令播放媒体|[百度网盘](https://pan.baidu.com/s/1FjJnW8eBZxsKIIdvbh0f-A)  提取码：bs9s
-34|ffplay简单过滤器|[百度网盘](https://pan.baidu.com/s/1YlkCGIMH62Wj0-OTRLxDkA)  提取码：r4rk
-35|ffmpeg命令参数说明|[百度网盘](https://pan.baidu.com/s/1aOL7vXnspVAh-iNYsz_5xA)  提取码：5q18
-36|ffmpeg命令提取音视频数据|[百度网盘](https://pan.baidu.com/s/1Zlv_6a-O9Fj9HFpt9S6Z5g)  提取码：v807
-37|ffmpeg命令提取像素格式和PCM数据|[百度网盘](https://pan.baidu.com/s/1Z1cdwVexIvAiyCQNPA0k3A)  提取码：az9x
-38|ffmpeg命令转封装|[百度网盘](https://pan.baidu.com/s/1TxZpe2RicrGWgZPhi81E2g)  提取码：s7ez
-39|fmpeg命令裁剪和合并视频|[百度网盘](https://pan.baidu.com/s/1W8b_krHc3PzAfoRXneS2Wg)  提取码：6g0g
-40|fmpeg命令图片与视频互转|[百度网盘](https://pan.baidu.com/s/1nHhhA3y8dHneFVfNoY_fHg)  提取码：a3p5
-41|ffmpeg命令视频录制|[百度网盘](https://pan.baidu.com/s/1zGz_P34GHKE5KVt_b8bT3w)  提取码：em7b
-42|ffmpeg命令直播(上)|[百度网盘](https://pan.baidu.com/s/1rtCfJWWaanK6Syk2254h2g)  提取码：ilxz
-43|ffmpeg命令直播(下)|[百度网盘](https://pan.baidu.com/s/1mo7vo4d_ghqrue7gzE0M1g)  提取码：akyr
-44|ffmpeg过滤器-裁剪|[百度网盘](https://pan.baidu.com/s/1vuQLx_ff8ZnlStxX2aOeXA)  提取码：toii
-45|ffmpeg过滤器-文字水印|[百度网盘](https://pan.baidu.com/s/1YilCkZg99xhwEQBwjenWKQ)  提取码：unuu
-46|ffmpeg过滤器-图片水印|[百度网盘](https://pan.baidu.com/s/11VFsXn-c8e9GZ3Wy4M8hAA)  提取码：mw4v
-47|ffmpeg过滤器-画中画|[百度网盘](https://pan.baidu.com/s/1TFiR47qhPTHAzbSQhatEBA)  提取码：c6fc
-48|ffmpeg过滤器-多宫格|[百度网盘](https://pan.baidu.com/s/1Ib73MtuqgaFoECuSrzOApQ)  提取码：aioi
-49|SRS流媒体服务器实战(上)|[百度网盘](https://pan.baidu.com/s/1kZTa5-0kfCcdMiObpJdOfQ)  提取码：4134
-50|SRS流媒体服务器实战(下)|[百度网盘](https://pan.baidu.com/s/1goy3g9rmHc-JmO9VpsCKvg)  提取码：g4be
-51|音视频开发-ffplay.iikplayer、vlc的播放器设计实现|[百度网盘](https://pan.baidu.com/s/1NTT_fzfkWIYy2DX90joAoA)  提取码：1img
-52|音视频成长之路-进阶三部曲|[百度网盘](https://pan.baidu.com/s/1XUTn60ZHTBt63CmQe2vObw)  提取码：4nw3
-53|为什么直播领域也要搞WebRTC-srs4.0|[百度网盘](https://pan.baidu.com/s/1c9dexc7-QglR-0hkvqnUEQ)  提取码：m47a
-54|腾讯课堂直播如何做到低延迟|[百度网盘](https://pan.baidu.com/s/1oRuwvWRyw7YjDAqzMPnZyQ)  提取码：jruh
-55|rtmp2webrtc提出问题-灵魂拷问|[百度网盘](https://pan.baidu.com/s/1cyf0qCYUYKNyfSchyY6aWQ)  提取码：pupp
+27|FFMPEG如何查询命令帮助文档|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=2) 
+28|ffmpeg音视频处理流程|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=3)  
+29|ffmpeg命令分类查询|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=4)  
+30|ffplay播放控制|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=5)  
+31|ffplay命令选项(上)|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=6)  
+32|ffplay命令选项(下)|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=6)  
+33|ffplay命令播放媒体|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=7)  
+34|ffplay简单过滤器|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=8)  
+35|ffmpeg命令参数说明|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=9) 
+36|ffmpeg命令提取音视频数据|[点击学习](https://www.bilibili.com/video/BV1ke411p7Ud?p=10)  
+37|ffmpeg命令提取像素格式和PCM数据|[点击学习](https://www.bilibili.com/video/BV1ng411V7dt/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0) 
+38|ffmpeg命令转封装|[点击学习](https://www.bilibili.com/video/BV1g3411q7eD/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+39|fmpeg命令裁剪和合并视频|[点击学习](https://www.bilibili.com/video/BV1yQ4y1C7NR/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+40|fmpeg命令图片与视频互转|[点击学习](https://www.bilibili.com/video/BV1mQ4y1C7ix/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+41|ffmpeg命令视频录制|[点击学习](https://www.bilibili.com/video/BV1vR4y1z7DR/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+42|ffmpeg命令直播(上)|[点击学习](https://www.bilibili.com/video/BV1P34y1Q7xY/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+43|ffmpeg命令直播(下)|[点击学习](https://www.bilibili.com/video/BV1oq4y1T763/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+44|ffmpeg过滤器-裁剪|[点击学习](https://www.bilibili.com/video/BV1sg411V7FL/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+45|ffmpeg过滤器-文字水印|[点击学习](https://www.bilibili.com/video/BV1Hq4y1P7jx/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+46|ffmpeg过滤器-图片水印|[点击学习](https://www.bilibili.com/video/BV17b4y117vn/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+47|ffmpeg过滤器-画中画|[点击学习](https://www.bilibili.com/video/BV1tR4y1H7C3/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+48|ffmpeg过滤器-多宫格|[点击学习](https://www.bilibili.com/video/BV1Fh411n7Cq/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+49|SRS流媒体服务器实战(上)|[点击学习](https://www.bilibili.com/video/BV1EZ4y1V7jh/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+50|SRS流媒体服务器实战(下)|[点击学习](https://www.bilibili.com/video/BV1Cz4y1o7e5/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+51|音视频开发-ffplay.iikplayer、vlc的播放器设计实现|[点击学习](https://www.bilibili.com/video/BV1wB4y1u7bA/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+52|音视频成长之路-进阶三部曲|[点击学习](https://www.bilibili.com/video/BV15b4y1o7cu/?spm_id_from=333.999.0.0&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+53|为什么直播领域也要搞WebRTC-srs4.0|[点击学习](https://www.bilibili.com/video/BV1ch411a72Q/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+54|腾讯课堂直播如何做到低延迟|[点击学习](https://www.bilibili.com/video/BV1QY4y1K7Jr/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
+55|rtmp2webrtc提出问题-灵魂拷问|[点击学习](https://www.bilibili.com/video/BV14R4y1M7hZ/?spm_id_from=333.337.search-card.all.click&vd_source=03440091ee214c3e20c9d59215f6c4b0)  
 
 <br/>
 
